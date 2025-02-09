@@ -2,4159 +2,4159 @@
   {
     "date_group":1677628800000,
     "platform":"android",
-    "visits":75,
-    "registrations":61,
+    "visits":75.0,
+    "registrations":61.0,
     "conversion":81.3333
+  },
+  {
+    "date_group":1677715200000,
+    "platform":"android",
+    "visits":67.0,
+    "registrations":59.0,
+    "conversion":88.0597
+  },
+  {
+    "date_group":1677801600000,
+    "platform":"android",
+    "visits":26.0,
+    "registrations":22.0,
+    "conversion":84.6154
+  },
+  {
+    "date_group":1677888000000,
+    "platform":"android",
+    "visits":94.0,
+    "registrations":77.0,
+    "conversion":81.9149
+  },
+  {
+    "date_group":1677974400000,
+    "platform":"android",
+    "visits":66.0,
+    "registrations":54.0,
+    "conversion":81.8182
+  },
+  {
+    "date_group":1678060800000,
+    "platform":"android",
+    "visits":150.0,
+    "registrations":109.0,
+    "conversion":72.6667
+  },
+  {
+    "date_group":1678147200000,
+    "platform":"android",
+    "visits":62.0,
+    "registrations":50.0,
+    "conversion":80.6452
+  },
+  {
+    "date_group":1678233600000,
+    "platform":"android",
+    "visits":119.0,
+    "registrations":74.0,
+    "conversion":62.1849
+  },
+  {
+    "date_group":1678320000000,
+    "platform":"android",
+    "visits":138.0,
+    "registrations":106.0,
+    "conversion":76.8116
+  },
+  {
+    "date_group":1678406400000,
+    "platform":"android",
+    "visits":87.0,
+    "registrations":59.0,
+    "conversion":67.8161
+  },
+  {
+    "date_group":1678492800000,
+    "platform":"android",
+    "visits":47.0,
+    "registrations":37.0,
+    "conversion":78.7234
+  },
+  {
+    "date_group":1678579200000,
+    "platform":"android",
+    "visits":130.0,
+    "registrations":87.0,
+    "conversion":66.9231
+  },
+  {
+    "date_group":1678665600000,
+    "platform":"android",
+    "visits":147.0,
+    "registrations":109.0,
+    "conversion":74.1497
+  },
+  {
+    "date_group":1678752000000,
+    "platform":"android",
+    "visits":66.0,
+    "registrations":53.0,
+    "conversion":80.303
+  },
+  {
+    "date_group":1678838400000,
+    "platform":"android",
+    "visits":78.0,
+    "registrations":60.0,
+    "conversion":76.9231
+  },
+  {
+    "date_group":1678924800000,
+    "platform":"android",
+    "visits":76.0,
+    "registrations":66.0,
+    "conversion":86.8421
+  },
+  {
+    "date_group":1679011200000,
+    "platform":"android",
+    "visits":53.0,
+    "registrations":46.0,
+    "conversion":86.7925
+  },
+  {
+    "date_group":1679097600000,
+    "platform":"android",
+    "visits":81.0,
+    "registrations":69.0,
+    "conversion":85.1852
+  },
+  {
+    "date_group":1679184000000,
+    "platform":"android",
+    "visits":61.0,
+    "registrations":52.0,
+    "conversion":85.2459
+  },
+  {
+    "date_group":1679270400000,
+    "platform":"android",
+    "visits":43.0,
+    "registrations":35.0,
+    "conversion":81.3953
+  },
+  {
+    "date_group":1679356800000,
+    "platform":"android",
+    "visits":65.0,
+    "registrations":56.0,
+    "conversion":86.1538
+  },
+  {
+    "date_group":1679443200000,
+    "platform":"android",
+    "visits":77.0,
+    "registrations":68.0,
+    "conversion":88.3117
+  },
+  {
+    "date_group":1679529600000,
+    "platform":"android",
+    "visits":66.0,
+    "registrations":55.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1679616000000,
+    "platform":"android",
+    "visits":47.0,
+    "registrations":41.0,
+    "conversion":87.234
+  },
+  {
+    "date_group":1679702400000,
+    "platform":"android",
+    "visits":50.0,
+    "registrations":40.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1679788800000,
+    "platform":"android",
+    "visits":70.0,
+    "registrations":58.0,
+    "conversion":82.8571
+  },
+  {
+    "date_group":1679875200000,
+    "platform":"android",
+    "visits":80.0,
+    "registrations":67.0,
+    "conversion":83.75
+  },
+  {
+    "date_group":1679961600000,
+    "platform":"android",
+    "visits":59.0,
+    "registrations":48.0,
+    "conversion":81.3559
+  },
+  {
+    "date_group":1680048000000,
+    "platform":"android",
+    "visits":73.0,
+    "registrations":54.0,
+    "conversion":73.9726
+  },
+  {
+    "date_group":1680134400000,
+    "platform":"android",
+    "visits":38.0,
+    "registrations":30.0,
+    "conversion":78.9474
+  },
+  {
+    "date_group":1680220800000,
+    "platform":"android",
+    "visits":84.0,
+    "registrations":66.0,
+    "conversion":78.5714
+  },
+  {
+    "date_group":1680307200000,
+    "platform":"android",
+    "visits":74.0,
+    "registrations":57.0,
+    "conversion":77.027
+  },
+  {
+    "date_group":1680393600000,
+    "platform":"android",
+    "visits":69.0,
+    "registrations":58.0,
+    "conversion":84.058
+  },
+  {
+    "date_group":1680480000000,
+    "platform":"android",
+    "visits":96.0,
+    "registrations":83.0,
+    "conversion":86.4583
+  },
+  {
+    "date_group":1680566400000,
+    "platform":"android",
+    "visits":85.0,
+    "registrations":72.0,
+    "conversion":84.7059
+  },
+  {
+    "date_group":1680652800000,
+    "platform":"android",
+    "visits":100.0,
+    "registrations":73.0,
+    "conversion":73.0
+  },
+  {
+    "date_group":1680739200000,
+    "platform":"android",
+    "visits":108.0,
+    "registrations":93.0,
+    "conversion":86.1111
+  },
+  {
+    "date_group":1680825600000,
+    "platform":"android",
+    "visits":111.0,
+    "registrations":90.0,
+    "conversion":81.0811
+  },
+  {
+    "date_group":1680912000000,
+    "platform":"android",
+    "visits":107.0,
+    "registrations":82.0,
+    "conversion":76.6355
+  },
+  {
+    "date_group":1680998400000,
+    "platform":"android",
+    "visits":81.0,
+    "registrations":68.0,
+    "conversion":83.9506
+  },
+  {
+    "date_group":1681084800000,
+    "platform":"android",
+    "visits":132.0,
+    "registrations":109.0,
+    "conversion":82.5758
+  },
+  {
+    "date_group":1681171200000,
+    "platform":"android",
+    "visits":27.0,
+    "registrations":21.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1681257600000,
+    "platform":"android",
+    "visits":91.0,
+    "registrations":79.0,
+    "conversion":86.8132
+  },
+  {
+    "date_group":1681344000000,
+    "platform":"android",
+    "visits":84.0,
+    "registrations":71.0,
+    "conversion":84.5238
+  },
+  {
+    "date_group":1681430400000,
+    "platform":"android",
+    "visits":81.0,
+    "registrations":54.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1681516800000,
+    "platform":"android",
+    "visits":45.0,
+    "registrations":35.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1681603200000,
+    "platform":"android",
+    "visits":106.0,
+    "registrations":85.0,
+    "conversion":80.1887
+  },
+  {
+    "date_group":1681689600000,
+    "platform":"android",
+    "visits":93.0,
+    "registrations":62.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1681776000000,
+    "platform":"android",
+    "visits":67.0,
+    "registrations":55.0,
+    "conversion":82.0896
+  },
+  {
+    "date_group":1681862400000,
+    "platform":"android",
+    "visits":105.0,
+    "registrations":79.0,
+    "conversion":75.2381
+  },
+  {
+    "date_group":1681948800000,
+    "platform":"android",
+    "visits":117.0,
+    "registrations":88.0,
+    "conversion":75.2137
+  },
+  {
+    "date_group":1682035200000,
+    "platform":"android",
+    "visits":64.0,
+    "registrations":50.0,
+    "conversion":78.125
+  },
+  {
+    "date_group":1682121600000,
+    "platform":"android",
+    "visits":56.0,
+    "registrations":52.0,
+    "conversion":92.8571
+  },
+  {
+    "date_group":1682208000000,
+    "platform":"android",
+    "visits":34.0,
+    "registrations":27.0,
+    "conversion":79.4118
+  },
+  {
+    "date_group":1682294400000,
+    "platform":"android",
+    "visits":123.0,
+    "registrations":87.0,
+    "conversion":70.7317
+  },
+  {
+    "date_group":1682380800000,
+    "platform":"android",
+    "visits":104.0,
+    "registrations":95.0,
+    "conversion":91.3462
+  },
+  {
+    "date_group":1682467200000,
+    "platform":"android",
+    "visits":39.0,
+    "registrations":28.0,
+    "conversion":71.7949
+  },
+  {
+    "date_group":1682553600000,
+    "platform":"android",
+    "visits":111.0,
+    "registrations":84.0,
+    "conversion":75.6757
+  },
+  {
+    "date_group":1682640000000,
+    "platform":"android",
+    "visits":69.0,
+    "registrations":54.0,
+    "conversion":78.2609
+  },
+  {
+    "date_group":1682726400000,
+    "platform":"android",
+    "visits":74.0,
+    "registrations":58.0,
+    "conversion":78.3784
+  },
+  {
+    "date_group":1682812800000,
+    "platform":"android",
+    "visits":97.0,
+    "registrations":78.0,
+    "conversion":80.4124
+  },
+  {
+    "date_group":1682899200000,
+    "platform":"android",
+    "visits":27.0,
+    "registrations":22.0,
+    "conversion":81.4815
+  },
+  {
+    "date_group":1682985600000,
+    "platform":"android",
+    "visits":65.0,
+    "registrations":51.0,
+    "conversion":78.4615
+  },
+  {
+    "date_group":1683072000000,
+    "platform":"android",
+    "visits":95.0,
+    "registrations":81.0,
+    "conversion":85.2632
+  },
+  {
+    "date_group":1683158400000,
+    "platform":"android",
+    "visits":100.0,
+    "registrations":83.0,
+    "conversion":83.0
+  },
+  {
+    "date_group":1683244800000,
+    "platform":"android",
+    "visits":108.0,
+    "registrations":94.0,
+    "conversion":87.037
+  },
+  {
+    "date_group":1683331200000,
+    "platform":"android",
+    "visits":64.0,
+    "registrations":61.0,
+    "conversion":95.3125
+  },
+  {
+    "date_group":1683417600000,
+    "platform":"android",
+    "visits":42.0,
+    "registrations":34.0,
+    "conversion":80.9524
+  },
+  {
+    "date_group":1683504000000,
+    "platform":"android",
+    "visits":35.0,
+    "registrations":28.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1683590400000,
+    "platform":"android",
+    "visits":33.0,
+    "registrations":27.0,
+    "conversion":81.8182
+  },
+  {
+    "date_group":1683676800000,
+    "platform":"android",
+    "visits":94.0,
+    "registrations":77.0,
+    "conversion":81.9149
+  },
+  {
+    "date_group":1683763200000,
+    "platform":"android",
+    "visits":27.0,
+    "registrations":21.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1683849600000,
+    "platform":"android",
+    "visits":91.0,
+    "registrations":79.0,
+    "conversion":86.8132
+  },
+  {
+    "date_group":1683936000000,
+    "platform":"android",
+    "visits":39.0,
+    "registrations":33.0,
+    "conversion":84.6154
+  },
+  {
+    "date_group":1684022400000,
+    "platform":"android",
+    "visits":60.0,
+    "registrations":49.0,
+    "conversion":81.6667
+  },
+  {
+    "date_group":1684108800000,
+    "platform":"android",
+    "visits":39.0,
+    "registrations":31.0,
+    "conversion":79.4872
+  },
+  {
+    "date_group":1684195200000,
+    "platform":"android",
+    "visits":38.0,
+    "registrations":33.0,
+    "conversion":86.8421
+  },
+  {
+    "date_group":1684281600000,
+    "platform":"android",
+    "visits":47.0,
+    "registrations":41.0,
+    "conversion":87.234
+  },
+  {
+    "date_group":1684368000000,
+    "platform":"android",
+    "visits":26.0,
+    "registrations":22.0,
+    "conversion":84.6154
+  },
+  {
+    "date_group":1684454400000,
+    "platform":"android",
+    "visits":52.0,
+    "registrations":42.0,
+    "conversion":80.7692
+  },
+  {
+    "date_group":1684540800000,
+    "platform":"android",
+    "visits":48.0,
+    "registrations":41.0,
+    "conversion":85.4167
+  },
+  {
+    "date_group":1684627200000,
+    "platform":"android",
+    "visits":80.0,
+    "registrations":68.0,
+    "conversion":85.0
+  },
+  {
+    "date_group":1684713600000,
+    "platform":"android",
+    "visits":75.0,
+    "registrations":63.0,
+    "conversion":84.0
+  },
+  {
+    "date_group":1684800000000,
+    "platform":"android",
+    "visits":83.0,
+    "registrations":64.0,
+    "conversion":77.1084
+  },
+  {
+    "date_group":1684886400000,
+    "platform":"android",
+    "visits":61.0,
+    "registrations":49.0,
+    "conversion":80.3279
+  },
+  {
+    "date_group":1684972800000,
+    "platform":"android",
+    "visits":65.0,
+    "registrations":48.0,
+    "conversion":73.8462
+  },
+  {
+    "date_group":1685059200000,
+    "platform":"android",
+    "visits":113.0,
+    "registrations":86.0,
+    "conversion":76.1062
+  },
+  {
+    "date_group":1685145600000,
+    "platform":"android",
+    "visits":84.0,
+    "registrations":63.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1685232000000,
+    "platform":"android",
+    "visits":35.0,
+    "registrations":28.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1685318400000,
+    "platform":"android",
+    "visits":43.0,
+    "registrations":34.0,
+    "conversion":79.0698
+  },
+  {
+    "date_group":1685404800000,
+    "platform":"android",
+    "visits":45.0,
+    "registrations":34.0,
+    "conversion":75.5556
+  },
+  {
+    "date_group":1685491200000,
+    "platform":"android",
+    "visits":61.0,
+    "registrations":42.0,
+    "conversion":68.8525
+  },
+  {
+    "date_group":1685577600000,
+    "platform":"android",
+    "visits":68.0,
+    "registrations":56.0,
+    "conversion":82.3529
+  },
+  {
+    "date_group":1685664000000,
+    "platform":"android",
+    "visits":34.0,
+    "registrations":25.0,
+    "conversion":73.5294
+  },
+  {
+    "date_group":1685750400000,
+    "platform":"android",
+    "visits":79.0,
+    "registrations":59.0,
+    "conversion":74.6835
+  },
+  {
+    "date_group":1685836800000,
+    "platform":"android",
+    "visits":87.0,
+    "registrations":67.0,
+    "conversion":77.0115
+  },
+  {
+    "date_group":1685923200000,
+    "platform":"android",
+    "visits":44.0,
+    "registrations":34.0,
+    "conversion":77.2727
+  },
+  {
+    "date_group":1686009600000,
+    "platform":"android",
+    "visits":50.0,
+    "registrations":41.0,
+    "conversion":82.0
+  },
+  {
+    "date_group":1686096000000,
+    "platform":"android",
+    "visits":72.0,
+    "registrations":58.0,
+    "conversion":80.5556
+  },
+  {
+    "date_group":1686182400000,
+    "platform":"android",
+    "visits":42.0,
+    "registrations":30.0,
+    "conversion":71.4286
+  },
+  {
+    "date_group":1686268800000,
+    "platform":"android",
+    "visits":79.0,
+    "registrations":62.0,
+    "conversion":78.481
+  },
+  {
+    "date_group":1686355200000,
+    "platform":"android",
+    "visits":72.0,
+    "registrations":58.0,
+    "conversion":80.5556
+  },
+  {
+    "date_group":1686441600000,
+    "platform":"android",
+    "visits":85.0,
+    "registrations":70.0,
+    "conversion":82.3529
+  },
+  {
+    "date_group":1686528000000,
+    "platform":"android",
+    "visits":61.0,
+    "registrations":51.0,
+    "conversion":83.6066
+  },
+  {
+    "date_group":1686614400000,
+    "platform":"android",
+    "visits":34.0,
+    "registrations":27.0,
+    "conversion":79.4118
+  },
+  {
+    "date_group":1686700800000,
+    "platform":"android",
+    "visits":75.0,
+    "registrations":66.0,
+    "conversion":88.0
+  },
+  {
+    "date_group":1686787200000,
+    "platform":"android",
+    "visits":42.0,
+    "registrations":34.0,
+    "conversion":80.9524
+  },
+  {
+    "date_group":1686873600000,
+    "platform":"android",
+    "visits":60.0,
+    "registrations":51.0,
+    "conversion":85.0
+  },
+  {
+    "date_group":1686960000000,
+    "platform":"android",
+    "visits":58.0,
+    "registrations":47.0,
+    "conversion":81.0345
+  },
+  {
+    "date_group":1687046400000,
+    "platform":"android",
+    "visits":74.0,
+    "registrations":61.0,
+    "conversion":82.4324
+  },
+  {
+    "date_group":1687132800000,
+    "platform":"android",
+    "visits":79.0,
+    "registrations":67.0,
+    "conversion":84.8101
+  },
+  {
+    "date_group":1687219200000,
+    "platform":"android",
+    "visits":25.0,
+    "registrations":22.0,
+    "conversion":88.0
+  },
+  {
+    "date_group":1687305600000,
+    "platform":"android",
+    "visits":42.0,
+    "registrations":35.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1687392000000,
+    "platform":"android",
+    "visits":82.0,
+    "registrations":67.0,
+    "conversion":81.7073
+  },
+  {
+    "date_group":1687478400000,
+    "platform":"android",
+    "visits":129.0,
+    "registrations":83.0,
+    "conversion":64.3411
+  },
+  {
+    "date_group":1687564800000,
+    "platform":"android",
+    "visits":94.0,
+    "registrations":62.0,
+    "conversion":65.9574
+  },
+  {
+    "date_group":1687651200000,
+    "platform":"android",
+    "visits":51.0,
+    "registrations":30.0,
+    "conversion":58.8235
+  },
+  {
+    "date_group":1687737600000,
+    "platform":"android",
+    "visits":63.0,
+    "registrations":41.0,
+    "conversion":65.0794
+  },
+  {
+    "date_group":1687824000000,
+    "platform":"android",
+    "visits":91.0,
+    "registrations":51.0,
+    "conversion":56.044
+  },
+  {
+    "date_group":1687910400000,
+    "platform":"android",
+    "visits":42.0,
+    "registrations":23.0,
+    "conversion":54.7619
+  },
+  {
+    "date_group":1687996800000,
+    "platform":"android",
+    "visits":87.0,
+    "registrations":61.0,
+    "conversion":70.1149
+  },
+  {
+    "date_group":1688083200000,
+    "platform":"android",
+    "visits":61.0,
+    "registrations":44.0,
+    "conversion":72.1311
+  },
+  {
+    "date_group":1688169600000,
+    "platform":"android",
+    "visits":111.0,
+    "registrations":65.0,
+    "conversion":58.5586
+  },
+  {
+    "date_group":1688256000000,
+    "platform":"android",
+    "visits":102.0,
+    "registrations":70.0,
+    "conversion":68.6275
+  },
+  {
+    "date_group":1688342400000,
+    "platform":"android",
+    "visits":97.0,
+    "registrations":71.0,
+    "conversion":73.1959
+  },
+  {
+    "date_group":1688428800000,
+    "platform":"android",
+    "visits":91.0,
+    "registrations":69.0,
+    "conversion":75.8242
+  },
+  {
+    "date_group":1688515200000,
+    "platform":"android",
+    "visits":78.0,
+    "registrations":52.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1688601600000,
+    "platform":"android",
+    "visits":112.0,
+    "registrations":69.0,
+    "conversion":61.6071
+  },
+  {
+    "date_group":1688688000000,
+    "platform":"android",
+    "visits":96.0,
+    "registrations":61.0,
+    "conversion":63.5417
+  },
+  {
+    "date_group":1688774400000,
+    "platform":"android",
+    "visits":93.0,
+    "registrations":63.0,
+    "conversion":67.7419
+  },
+  {
+    "date_group":1688860800000,
+    "platform":"android",
+    "visits":121.0,
+    "registrations":76.0,
+    "conversion":62.8099
+  },
+  {
+    "date_group":1688947200000,
+    "platform":"android",
+    "visits":108.0,
+    "registrations":66.0,
+    "conversion":61.1111
+  },
+  {
+    "date_group":1689033600000,
+    "platform":"android",
+    "visits":119.0,
+    "registrations":76.0,
+    "conversion":63.8655
+  },
+  {
+    "date_group":1689120000000,
+    "platform":"android",
+    "visits":93.0,
+    "registrations":61.0,
+    "conversion":65.5914
+  },
+  {
+    "date_group":1689206400000,
+    "platform":"android",
+    "visits":154.0,
+    "registrations":98.0,
+    "conversion":63.6364
+  },
+  {
+    "date_group":1689292800000,
+    "platform":"android",
+    "visits":59.0,
+    "registrations":35.0,
+    "conversion":59.322
+  },
+  {
+    "date_group":1689379200000,
+    "platform":"android",
+    "visits":83.0,
+    "registrations":54.0,
+    "conversion":65.0602
+  },
+  {
+    "date_group":1689465600000,
+    "platform":"android",
+    "visits":107.0,
+    "registrations":72.0,
+    "conversion":67.2897
+  },
+  {
+    "date_group":1689552000000,
+    "platform":"android",
+    "visits":55.0,
+    "registrations":40.0,
+    "conversion":72.7273
+  },
+  {
+    "date_group":1689638400000,
+    "platform":"android",
+    "visits":78.0,
+    "registrations":54.0,
+    "conversion":69.2308
+  },
+  {
+    "date_group":1689724800000,
+    "platform":"android",
+    "visits":35.0,
+    "registrations":24.0,
+    "conversion":68.5714
+  },
+  {
+    "date_group":1689811200000,
+    "platform":"android",
+    "visits":125.0,
+    "registrations":81.0,
+    "conversion":64.8
+  },
+  {
+    "date_group":1689897600000,
+    "platform":"android",
+    "visits":125.0,
+    "registrations":90.0,
+    "conversion":72.0
+  },
+  {
+    "date_group":1689984000000,
+    "platform":"android",
+    "visits":119.0,
+    "registrations":77.0,
+    "conversion":64.7059
+  },
+  {
+    "date_group":1690070400000,
+    "platform":"android",
+    "visits":75.0,
+    "registrations":54.0,
+    "conversion":72.0
+  },
+  {
+    "date_group":1690156800000,
+    "platform":"android",
+    "visits":150.0,
+    "registrations":87.0,
+    "conversion":58.0
+  },
+  {
+    "date_group":1690243200000,
+    "platform":"android",
+    "visits":110.0,
+    "registrations":65.0,
+    "conversion":59.0909
+  },
+  {
+    "date_group":1690329600000,
+    "platform":"android",
+    "visits":71.0,
+    "registrations":42.0,
+    "conversion":59.1549
+  },
+  {
+    "date_group":1690416000000,
+    "platform":"android",
+    "visits":36.0,
+    "registrations":31.0,
+    "conversion":86.1111
+  },
+  {
+    "date_group":1690502400000,
+    "platform":"android",
+    "visits":64.0,
+    "registrations":52.0,
+    "conversion":81.25
+  },
+  {
+    "date_group":1690588800000,
+    "platform":"android",
+    "visits":42.0,
+    "registrations":36.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1690675200000,
+    "platform":"android",
+    "visits":78.0,
+    "registrations":66.0,
+    "conversion":84.6154
+  },
+  {
+    "date_group":1690761600000,
+    "platform":"android",
+    "visits":75.0,
+    "registrations":62.0,
+    "conversion":82.6667
+  },
+  {
+    "date_group":1690848000000,
+    "platform":"android",
+    "visits":77.0,
+    "registrations":64.0,
+    "conversion":83.1169
+  },
+  {
+    "date_group":1690934400000,
+    "platform":"android",
+    "visits":23.0,
+    "registrations":19.0,
+    "conversion":82.6087
+  },
+  {
+    "date_group":1691020800000,
+    "platform":"android",
+    "visits":46.0,
+    "registrations":39.0,
+    "conversion":84.7826
+  },
+  {
+    "date_group":1691107200000,
+    "platform":"android",
+    "visits":27.0,
+    "registrations":22.0,
+    "conversion":81.4815
+  },
+  {
+    "date_group":1691193600000,
+    "platform":"android",
+    "visits":62.0,
+    "registrations":50.0,
+    "conversion":80.6452
+  },
+  {
+    "date_group":1691280000000,
+    "platform":"android",
+    "visits":76.0,
+    "registrations":63.0,
+    "conversion":82.8947
+  },
+  {
+    "date_group":1691366400000,
+    "platform":"android",
+    "visits":100.0,
+    "registrations":80.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1691452800000,
+    "platform":"android",
+    "visits":83.0,
+    "registrations":57.0,
+    "conversion":68.6747
+  },
+  {
+    "date_group":1691539200000,
+    "platform":"android",
+    "visits":107.0,
+    "registrations":82.0,
+    "conversion":76.6355
+  },
+  {
+    "date_group":1691625600000,
+    "platform":"android",
+    "visits":142.0,
+    "registrations":112.0,
+    "conversion":78.8732
+  },
+  {
+    "date_group":1691712000000,
+    "platform":"android",
+    "visits":93.0,
+    "registrations":70.0,
+    "conversion":75.2688
+  },
+  {
+    "date_group":1691798400000,
+    "platform":"android",
+    "visits":124.0,
+    "registrations":109.0,
+    "conversion":87.9032
+  },
+  {
+    "date_group":1691884800000,
+    "platform":"android",
+    "visits":49.0,
+    "registrations":34.0,
+    "conversion":69.3878
+  },
+  {
+    "date_group":1691971200000,
+    "platform":"android",
+    "visits":96.0,
+    "registrations":65.0,
+    "conversion":67.7083
+  },
+  {
+    "date_group":1692057600000,
+    "platform":"android",
+    "visits":139.0,
+    "registrations":93.0,
+    "conversion":66.9065
+  },
+  {
+    "date_group":1692144000000,
+    "platform":"android",
+    "visits":39.0,
+    "registrations":27.0,
+    "conversion":69.2308
+  },
+  {
+    "date_group":1692230400000,
+    "platform":"android",
+    "visits":45.0,
+    "registrations":39.0,
+    "conversion":86.6667
+  },
+  {
+    "date_group":1692316800000,
+    "platform":"android",
+    "visits":44.0,
+    "registrations":27.0,
+    "conversion":61.3636
+  },
+  {
+    "date_group":1692403200000,
+    "platform":"android",
+    "visits":68.0,
+    "registrations":57.0,
+    "conversion":83.8235
+  },
+  {
+    "date_group":1692489600000,
+    "platform":"android",
+    "visits":60.0,
+    "registrations":36.0,
+    "conversion":60.0
+  },
+  {
+    "date_group":1692576000000,
+    "platform":"android",
+    "visits":129.0,
+    "registrations":85.0,
+    "conversion":65.8915
+  },
+  {
+    "date_group":1692662400000,
+    "platform":"android",
+    "visits":57.0,
+    "registrations":38.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1692748800000,
+    "platform":"android",
+    "visits":70.0,
+    "registrations":47.0,
+    "conversion":67.1429
+  },
+  {
+    "date_group":1692835200000,
+    "platform":"android",
+    "visits":103.0,
+    "registrations":67.0,
+    "conversion":65.0485
+  },
+  {
+    "date_group":1692921600000,
+    "platform":"android",
+    "visits":79.0,
+    "registrations":62.0,
+    "conversion":78.481
+  },
+  {
+    "date_group":1693008000000,
+    "platform":"android",
+    "visits":147.0,
+    "registrations":114.0,
+    "conversion":77.551
+  },
+  {
+    "date_group":1693094400000,
+    "platform":"android",
+    "visits":56.0,
+    "registrations":39.0,
+    "conversion":69.6429
+  },
+  {
+    "date_group":1693180800000,
+    "platform":"android",
+    "visits":44.0,
+    "registrations":34.0,
+    "conversion":77.2727
+  },
+  {
+    "date_group":1693267200000,
+    "platform":"android",
+    "visits":71.0,
+    "registrations":56.0,
+    "conversion":78.8732
+  },
+  {
+    "date_group":1693353600000,
+    "platform":"android",
+    "visits":35.0,
+    "registrations":27.0,
+    "conversion":77.1429
+  },
+  {
+    "date_group":1693440000000,
+    "platform":"android",
+    "visits":57.0,
+    "registrations":42.0,
+    "conversion":73.6842
+  },
+  {
+    "date_group":1677888000000,
+    "platform":"bot",
+    "visits":184.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1677974400000,
+    "platform":"bot",
+    "visits":226.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1678060800000,
+    "platform":"bot",
+    "visits":101.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1678147200000,
+    "platform":"bot",
+    "visits":90.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1678233600000,
+    "platform":"bot",
+    "visits":224.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1678320000000,
+    "platform":"bot",
+    "visits":168.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1678406400000,
+    "platform":"bot",
+    "visits":233.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681084800000,
+    "platform":"bot",
+    "visits":208.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681171200000,
+    "platform":"bot",
+    "visits":166.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681257600000,
+    "platform":"bot",
+    "visits":182.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681344000000,
+    "platform":"bot",
+    "visits":194.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681430400000,
+    "platform":"bot",
+    "visits":191.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681516800000,
+    "platform":"bot",
+    "visits":174.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1681603200000,
+    "platform":"bot",
+    "visits":136.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684281600000,
+    "platform":"bot",
+    "visits":122.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684368000000,
+    "platform":"bot",
+    "visits":135.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684454400000,
+    "platform":"bot",
+    "visits":233.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684540800000,
+    "platform":"bot",
+    "visits":140.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684627200000,
+    "platform":"bot",
+    "visits":131.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684713600000,
+    "platform":"bot",
+    "visits":137.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1684800000000,
+    "platform":"bot",
+    "visits":225.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1685750400000,
+    "platform":"bot",
+    "visits":127.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1685836800000,
+    "platform":"bot",
+    "visits":192.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1685923200000,
+    "platform":"bot",
+    "visits":192.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1686009600000,
+    "platform":"bot",
+    "visits":215.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1686096000000,
+    "platform":"bot",
+    "visits":215.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1686182400000,
+    "platform":"bot",
+    "visits":213.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1686268800000,
+    "platform":"bot",
+    "visits":137.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688256000000,
+    "platform":"bot",
+    "visits":138.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688342400000,
+    "platform":"bot",
+    "visits":113.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688428800000,
+    "platform":"bot",
+    "visits":167.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688515200000,
+    "platform":"bot",
+    "visits":211.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688601600000,
+    "platform":"bot",
+    "visits":210.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688688000000,
+    "platform":"bot",
+    "visits":204.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1688774400000,
+    "platform":"bot",
+    "visits":225.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1691539200000,
+    "platform":"bot",
+    "visits":125.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1691625600000,
+    "platform":"bot",
+    "visits":211.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1691712000000,
+    "platform":"bot",
+    "visits":190.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1691798400000,
+    "platform":"bot",
+    "visits":170.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1691884800000,
+    "platform":"bot",
+    "visits":202.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1691971200000,
+    "platform":"bot",
+    "visits":125.0,
+    "registrations":0.0,
+    "conversion":0.0
+  },
+  {
+    "date_group":1692057600000,
+    "platform":"bot",
+    "visits":200.0,
+    "registrations":0.0,
+    "conversion":0.0
   },
   {
     "date_group":1677628800000,
     "platform":"ios",
-    "visits":22,
-    "registrations":18,
+    "visits":22.0,
+    "registrations":18.0,
     "conversion":81.8182
+  },
+  {
+    "date_group":1677715200000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":24.0,
+    "conversion":77.4194
+  },
+  {
+    "date_group":1677801600000,
+    "platform":"ios",
+    "visits":40.0,
+    "registrations":34.0,
+    "conversion":85.0
+  },
+  {
+    "date_group":1677888000000,
+    "platform":"ios",
+    "visits":68.0,
+    "registrations":43.0,
+    "conversion":63.2353
+  },
+  {
+    "date_group":1677974400000,
+    "platform":"ios",
+    "visits":16.0,
+    "registrations":13.0,
+    "conversion":81.25
+  },
+  {
+    "date_group":1678060800000,
+    "platform":"ios",
+    "visits":57.0,
+    "registrations":43.0,
+    "conversion":75.4386
+  },
+  {
+    "date_group":1678147200000,
+    "platform":"ios",
+    "visits":25.0,
+    "registrations":19.0,
+    "conversion":76.0
+  },
+  {
+    "date_group":1678233600000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":18.0,
+    "conversion":64.2857
+  },
+  {
+    "date_group":1678320000000,
+    "platform":"ios",
+    "visits":43.0,
+    "registrations":34.0,
+    "conversion":79.0698
+  },
+  {
+    "date_group":1678406400000,
+    "platform":"ios",
+    "visits":23.0,
+    "registrations":16.0,
+    "conversion":69.5652
+  },
+  {
+    "date_group":1678492800000,
+    "platform":"ios",
+    "visits":46.0,
+    "registrations":30.0,
+    "conversion":65.2174
+  },
+  {
+    "date_group":1678579200000,
+    "platform":"ios",
+    "visits":74.0,
+    "registrations":54.0,
+    "conversion":72.973
+  },
+  {
+    "date_group":1678665600000,
+    "platform":"ios",
+    "visits":29.0,
+    "registrations":18.0,
+    "conversion":62.069
+  },
+  {
+    "date_group":1678752000000,
+    "platform":"ios",
+    "visits":37.0,
+    "registrations":23.0,
+    "conversion":62.1622
+  },
+  {
+    "date_group":1678838400000,
+    "platform":"ios",
+    "visits":42.0,
+    "registrations":31.0,
+    "conversion":73.8095
+  },
+  {
+    "date_group":1678924800000,
+    "platform":"ios",
+    "visits":22.0,
+    "registrations":18.0,
+    "conversion":81.8182
+  },
+  {
+    "date_group":1679011200000,
+    "platform":"ios",
+    "visits":19.0,
+    "registrations":16.0,
+    "conversion":84.2105
+  },
+  {
+    "date_group":1679097600000,
+    "platform":"ios",
+    "visits":19.0,
+    "registrations":16.0,
+    "conversion":84.2105
+  },
+  {
+    "date_group":1679184000000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":26.0,
+    "conversion":83.871
+  },
+  {
+    "date_group":1679270400000,
+    "platform":"ios",
+    "visits":17.0,
+    "registrations":13.0,
+    "conversion":76.4706
+  },
+  {
+    "date_group":1679356800000,
+    "platform":"ios",
+    "visits":11.0,
+    "registrations":9.0,
+    "conversion":81.8182
+  },
+  {
+    "date_group":1679443200000,
+    "platform":"ios",
+    "visits":37.0,
+    "registrations":32.0,
+    "conversion":86.4865
+  },
+  {
+    "date_group":1679529600000,
+    "platform":"ios",
+    "visits":39.0,
+    "registrations":32.0,
+    "conversion":82.0513
+  },
+  {
+    "date_group":1679616000000,
+    "platform":"ios",
+    "visits":17.0,
+    "registrations":13.0,
+    "conversion":76.4706
+  },
+  {
+    "date_group":1679702400000,
+    "platform":"ios",
+    "visits":21.0,
+    "registrations":17.0,
+    "conversion":80.9524
+  },
+  {
+    "date_group":1679788800000,
+    "platform":"ios",
+    "visits":14.0,
+    "registrations":11.0,
+    "conversion":78.5714
+  },
+  {
+    "date_group":1679875200000,
+    "platform":"ios",
+    "visits":15.0,
+    "registrations":12.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1679961600000,
+    "platform":"ios",
+    "visits":46.0,
+    "registrations":34.0,
+    "conversion":73.913
+  },
+  {
+    "date_group":1680048000000,
+    "platform":"ios",
+    "visits":24.0,
+    "registrations":22.0,
+    "conversion":91.6667
+  },
+  {
+    "date_group":1680134400000,
+    "platform":"ios",
+    "visits":44.0,
+    "registrations":35.0,
+    "conversion":79.5455
+  },
+  {
+    "date_group":1680220800000,
+    "platform":"ios",
+    "visits":27.0,
+    "registrations":23.0,
+    "conversion":85.1852
+  },
+  {
+    "date_group":1680307200000,
+    "platform":"ios",
+    "visits":68.0,
+    "registrations":53.0,
+    "conversion":77.9412
+  },
+  {
+    "date_group":1680393600000,
+    "platform":"ios",
+    "visits":60.0,
+    "registrations":45.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1680480000000,
+    "platform":"ios",
+    "visits":39.0,
+    "registrations":27.0,
+    "conversion":69.2308
+  },
+  {
+    "date_group":1680566400000,
+    "platform":"ios",
+    "visits":33.0,
+    "registrations":27.0,
+    "conversion":81.8182
+  },
+  {
+    "date_group":1680652800000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":24.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1680739200000,
+    "platform":"ios",
+    "visits":24.0,
+    "registrations":18.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1680825600000,
+    "platform":"ios",
+    "visits":56.0,
+    "registrations":46.0,
+    "conversion":82.1429
+  },
+  {
+    "date_group":1680912000000,
+    "platform":"ios",
+    "visits":26.0,
+    "registrations":25.0,
+    "conversion":96.1538
+  },
+  {
+    "date_group":1680998400000,
+    "platform":"ios",
+    "visits":25.0,
+    "registrations":21.0,
+    "conversion":84.0
+  },
+  {
+    "date_group":1681084800000,
+    "platform":"ios",
+    "visits":37.0,
+    "registrations":29.0,
+    "conversion":78.3784
+  },
+  {
+    "date_group":1681171200000,
+    "platform":"ios",
+    "visits":41.0,
+    "registrations":33.0,
+    "conversion":80.4878
+  },
+  {
+    "date_group":1681257600000,
+    "platform":"ios",
+    "visits":29.0,
+    "registrations":26.0,
+    "conversion":89.6552
+  },
+  {
+    "date_group":1681344000000,
+    "platform":"ios",
+    "visits":39.0,
+    "registrations":32.0,
+    "conversion":82.0513
+  },
+  {
+    "date_group":1681430400000,
+    "platform":"ios",
+    "visits":44.0,
+    "registrations":37.0,
+    "conversion":84.0909
+  },
+  {
+    "date_group":1681516800000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":15.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1681603200000,
+    "platform":"ios",
+    "visits":50.0,
+    "registrations":45.0,
+    "conversion":90.0
+  },
+  {
+    "date_group":1681689600000,
+    "platform":"ios",
+    "visits":40.0,
+    "registrations":35.0,
+    "conversion":87.5
+  },
+  {
+    "date_group":1681776000000,
+    "platform":"ios",
+    "visits":29.0,
+    "registrations":23.0,
+    "conversion":79.3103
+  },
+  {
+    "date_group":1681862400000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":26.0,
+    "conversion":92.8571
+  },
+  {
+    "date_group":1681948800000,
+    "platform":"ios",
+    "visits":42.0,
+    "registrations":37.0,
+    "conversion":88.0952
+  },
+  {
+    "date_group":1682035200000,
+    "platform":"ios",
+    "visits":14.0,
+    "registrations":12.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1682121600000,
+    "platform":"ios",
+    "visits":48.0,
+    "registrations":35.0,
+    "conversion":72.9167
+  },
+  {
+    "date_group":1682208000000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":25.0,
+    "conversion":73.5294
+  },
+  {
+    "date_group":1682294400000,
+    "platform":"ios",
+    "visits":50.0,
+    "registrations":38.0,
+    "conversion":76.0
+  },
+  {
+    "date_group":1682380800000,
+    "platform":"ios",
+    "visits":25.0,
+    "registrations":21.0,
+    "conversion":84.0
+  },
+  {
+    "date_group":1682467200000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":25.0,
+    "conversion":89.2857
+  },
+  {
+    "date_group":1682553600000,
+    "platform":"ios",
+    "visits":13.0,
+    "registrations":10.0,
+    "conversion":76.9231
+  },
+  {
+    "date_group":1682640000000,
+    "platform":"ios",
+    "visits":45.0,
+    "registrations":37.0,
+    "conversion":82.2222
+  },
+  {
+    "date_group":1682726400000,
+    "platform":"ios",
+    "visits":43.0,
+    "registrations":34.0,
+    "conversion":79.0698
+  },
+  {
+    "date_group":1682812800000,
+    "platform":"ios",
+    "visits":63.0,
+    "registrations":50.0,
+    "conversion":79.3651
+  },
+  {
+    "date_group":1682899200000,
+    "platform":"ios",
+    "visits":15.0,
+    "registrations":14.0,
+    "conversion":93.3333
+  },
+  {
+    "date_group":1682985600000,
+    "platform":"ios",
+    "visits":67.0,
+    "registrations":53.0,
+    "conversion":79.1045
+  },
+  {
+    "date_group":1683072000000,
+    "platform":"ios",
+    "visits":67.0,
+    "registrations":50.0,
+    "conversion":74.6269
+  },
+  {
+    "date_group":1683158400000,
+    "platform":"ios",
+    "visits":39.0,
+    "registrations":35.0,
+    "conversion":89.7436
+  },
+  {
+    "date_group":1683244800000,
+    "platform":"ios",
+    "visits":15.0,
+    "registrations":11.0,
+    "conversion":73.3333
+  },
+  {
+    "date_group":1683331200000,
+    "platform":"ios",
+    "visits":29.0,
+    "registrations":22.0,
+    "conversion":75.8621
+  },
+  {
+    "date_group":1683417600000,
+    "platform":"ios",
+    "visits":30.0,
+    "registrations":24.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1683504000000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":26.0,
+    "conversion":83.871
+  },
+  {
+    "date_group":1683590400000,
+    "platform":"ios",
+    "visits":33.0,
+    "registrations":26.0,
+    "conversion":78.7879
+  },
+  {
+    "date_group":1683676800000,
+    "platform":"ios",
+    "visits":15.0,
+    "registrations":12.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1683763200000,
+    "platform":"ios",
+    "visits":21.0,
+    "registrations":18.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1683849600000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":14.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1683936000000,
+    "platform":"ios",
+    "visits":10.0,
+    "registrations":8.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1684022400000,
+    "platform":"ios",
+    "visits":22.0,
+    "registrations":18.0,
+    "conversion":81.8182
+  },
+  {
+    "date_group":1684108800000,
+    "platform":"ios",
+    "visits":32.0,
+    "registrations":26.0,
+    "conversion":81.25
+  },
+  {
+    "date_group":1684195200000,
+    "platform":"ios",
+    "visits":33.0,
+    "registrations":28.0,
+    "conversion":84.8485
+  },
+  {
+    "date_group":1684281600000,
+    "platform":"ios",
+    "visits":41.0,
+    "registrations":34.0,
+    "conversion":82.9268
+  },
+  {
+    "date_group":1684368000000,
+    "platform":"ios",
+    "visits":25.0,
+    "registrations":21.0,
+    "conversion":84.0
+  },
+  {
+    "date_group":1684454400000,
+    "platform":"ios",
+    "visits":37.0,
+    "registrations":31.0,
+    "conversion":83.7838
+  },
+  {
+    "date_group":1684540800000,
+    "platform":"ios",
+    "visits":32.0,
+    "registrations":26.0,
+    "conversion":81.25
+  },
+  {
+    "date_group":1684627200000,
+    "platform":"ios",
+    "visits":12.0,
+    "registrations":10.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1684713600000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":22.0,
+    "conversion":78.5714
+  },
+  {
+    "date_group":1684800000000,
+    "platform":"ios",
+    "visits":24.0,
+    "registrations":17.0,
+    "conversion":70.8333
+  },
+  {
+    "date_group":1684886400000,
+    "platform":"ios",
+    "visits":40.0,
+    "registrations":27.0,
+    "conversion":67.5
+  },
+  {
+    "date_group":1684972800000,
+    "platform":"ios",
+    "visits":19.0,
+    "registrations":14.0,
+    "conversion":73.6842
+  },
+  {
+    "date_group":1685059200000,
+    "platform":"ios",
+    "visits":8.0,
+    "registrations":6.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1685145600000,
+    "platform":"ios",
+    "visits":17.0,
+    "registrations":13.0,
+    "conversion":76.4706
+  },
+  {
+    "date_group":1685232000000,
+    "platform":"ios",
+    "visits":44.0,
+    "registrations":33.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1685318400000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":15.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1685404800000,
+    "platform":"ios",
+    "visits":21.0,
+    "registrations":14.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1685491200000,
+    "platform":"ios",
+    "visits":32.0,
+    "registrations":24.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1685577600000,
+    "platform":"ios",
+    "visits":53.0,
+    "registrations":39.0,
+    "conversion":73.5849
+  },
+  {
+    "date_group":1685664000000,
+    "platform":"ios",
+    "visits":14.0,
+    "registrations":11.0,
+    "conversion":78.5714
+  },
+  {
+    "date_group":1685750400000,
+    "platform":"ios",
+    "visits":40.0,
+    "registrations":31.0,
+    "conversion":77.5
+  },
+  {
+    "date_group":1685836800000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":23.0,
+    "conversion":82.1429
+  },
+  {
+    "date_group":1685923200000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":25.0,
+    "conversion":80.6452
+  },
+  {
+    "date_group":1686009600000,
+    "platform":"ios",
+    "visits":24.0,
+    "registrations":22.0,
+    "conversion":91.6667
+  },
+  {
+    "date_group":1686096000000,
+    "platform":"ios",
+    "visits":22.0,
+    "registrations":17.0,
+    "conversion":77.2727
+  },
+  {
+    "date_group":1686182400000,
+    "platform":"ios",
+    "visits":16.0,
+    "registrations":13.0,
+    "conversion":81.25
+  },
+  {
+    "date_group":1686268800000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":14.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1686355200000,
+    "platform":"ios",
+    "visits":42.0,
+    "registrations":34.0,
+    "conversion":80.9524
+  },
+  {
+    "date_group":1686441600000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":14.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1686528000000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":28.0,
+    "conversion":82.3529
+  },
+  {
+    "date_group":1686614400000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":24.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1686700800000,
+    "platform":"ios",
+    "visits":16.0,
+    "registrations":13.0,
+    "conversion":81.25
+  },
+  {
+    "date_group":1686787200000,
+    "platform":"ios",
+    "visits":35.0,
+    "registrations":28.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1686873600000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":25.0,
+    "conversion":80.6452
+  },
+  {
+    "date_group":1686960000000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":30.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1687046400000,
+    "platform":"ios",
+    "visits":39.0,
+    "registrations":34.0,
+    "conversion":87.1795
+  },
+  {
+    "date_group":1687132800000,
+    "platform":"ios",
+    "visits":16.0,
+    "registrations":14.0,
+    "conversion":87.5
+  },
+  {
+    "date_group":1687219200000,
+    "platform":"ios",
+    "visits":23.0,
+    "registrations":19.0,
+    "conversion":82.6087
+  },
+  {
+    "date_group":1687305600000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":29.0,
+    "conversion":80.5556
+  },
+  {
+    "date_group":1687392000000,
+    "platform":"ios",
+    "visits":43.0,
+    "registrations":35.0,
+    "conversion":81.3953
+  },
+  {
+    "date_group":1687478400000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":21.0,
+    "conversion":58.3333
+  },
+  {
+    "date_group":1687564800000,
+    "platform":"ios",
+    "visits":12.0,
+    "registrations":8.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1687651200000,
+    "platform":"ios",
+    "visits":44.0,
+    "registrations":28.0,
+    "conversion":63.6364
+  },
+  {
+    "date_group":1687737600000,
+    "platform":"ios",
+    "visits":47.0,
+    "registrations":31.0,
+    "conversion":65.9574
+  },
+  {
+    "date_group":1687824000000,
+    "platform":"ios",
+    "visits":19.0,
+    "registrations":9.0,
+    "conversion":47.3684
+  },
+  {
+    "date_group":1687910400000,
+    "platform":"ios",
+    "visits":44.0,
+    "registrations":27.0,
+    "conversion":61.3636
+  },
+  {
+    "date_group":1687996800000,
+    "platform":"ios",
+    "visits":66.0,
+    "registrations":41.0,
+    "conversion":62.1212
+  },
+  {
+    "date_group":1688083200000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":23.0,
+    "conversion":67.6471
+  },
+  {
+    "date_group":1688169600000,
+    "platform":"ios",
+    "visits":17.0,
+    "registrations":10.0,
+    "conversion":58.8235
+  },
+  {
+    "date_group":1688256000000,
+    "platform":"ios",
+    "visits":33.0,
+    "registrations":22.0,
+    "conversion":66.6667
+  },
+  {
+    "date_group":1688342400000,
+    "platform":"ios",
+    "visits":27.0,
+    "registrations":19.0,
+    "conversion":70.3704
+  },
+  {
+    "date_group":1688428800000,
+    "platform":"ios",
+    "visits":32.0,
+    "registrations":18.0,
+    "conversion":56.25
+  },
+  {
+    "date_group":1688515200000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":22.0,
+    "conversion":61.1111
+  },
+  {
+    "date_group":1688601600000,
+    "platform":"ios",
+    "visits":29.0,
+    "registrations":15.0,
+    "conversion":51.7241
+  },
+  {
+    "date_group":1688688000000,
+    "platform":"ios",
+    "visits":26.0,
+    "registrations":15.0,
+    "conversion":57.6923
+  },
+  {
+    "date_group":1688774400000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":18.0,
+    "conversion":58.0645
+  },
+  {
+    "date_group":1688860800000,
+    "platform":"ios",
+    "visits":32.0,
+    "registrations":22.0,
+    "conversion":68.75
+  },
+  {
+    "date_group":1688947200000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":20.0,
+    "conversion":58.8235
+  },
+  {
+    "date_group":1689033600000,
+    "platform":"ios",
+    "visits":25.0,
+    "registrations":15.0,
+    "conversion":60.0
+  },
+  {
+    "date_group":1689120000000,
+    "platform":"ios",
+    "visits":73.0,
+    "registrations":48.0,
+    "conversion":65.7534
+  },
+  {
+    "date_group":1689206400000,
+    "platform":"ios",
+    "visits":49.0,
+    "registrations":28.0,
+    "conversion":57.1429
+  },
+  {
+    "date_group":1689292800000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":21.0,
+    "conversion":67.7419
+  },
+  {
+    "date_group":1689379200000,
+    "platform":"ios",
+    "visits":24.0,
+    "registrations":14.0,
+    "conversion":58.3333
+  },
+  {
+    "date_group":1689465600000,
+    "platform":"ios",
+    "visits":20.0,
+    "registrations":12.0,
+    "conversion":60.0
+  },
+  {
+    "date_group":1689552000000,
+    "platform":"ios",
+    "visits":20.0,
+    "registrations":14.0,
+    "conversion":70.0
+  },
+  {
+    "date_group":1689638400000,
+    "platform":"ios",
+    "visits":20.0,
+    "registrations":13.0,
+    "conversion":65.0
+  },
+  {
+    "date_group":1689724800000,
+    "platform":"ios",
+    "visits":33.0,
+    "registrations":21.0,
+    "conversion":63.6364
+  },
+  {
+    "date_group":1689811200000,
+    "platform":"ios",
+    "visits":13.0,
+    "registrations":6.0,
+    "conversion":46.1538
+  },
+  {
+    "date_group":1689897600000,
+    "platform":"ios",
+    "visits":27.0,
+    "registrations":17.0,
+    "conversion":62.963
+  },
+  {
+    "date_group":1689984000000,
+    "platform":"ios",
+    "visits":23.0,
+    "registrations":12.0,
+    "conversion":52.1739
+  },
+  {
+    "date_group":1690070400000,
+    "platform":"ios",
+    "visits":19.0,
+    "registrations":14.0,
+    "conversion":73.6842
+  },
+  {
+    "date_group":1690156800000,
+    "platform":"ios",
+    "visits":25.0,
+    "registrations":12.0,
+    "conversion":48.0
+  },
+  {
+    "date_group":1690243200000,
+    "platform":"ios",
+    "visits":44.0,
+    "registrations":30.0,
+    "conversion":68.1818
+  },
+  {
+    "date_group":1690329600000,
+    "platform":"ios",
+    "visits":22.0,
+    "registrations":14.0,
+    "conversion":63.6364
+  },
+  {
+    "date_group":1690416000000,
+    "platform":"ios",
+    "visits":15.0,
+    "registrations":12.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1690502400000,
+    "platform":"ios",
+    "visits":42.0,
+    "registrations":35.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1690588800000,
+    "platform":"ios",
+    "visits":7.0,
+    "registrations":6.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1690675200000,
+    "platform":"ios",
+    "visits":42.0,
+    "registrations":36.0,
+    "conversion":85.7143
+  },
+  {
+    "date_group":1690761600000,
+    "platform":"ios",
+    "visits":20.0,
+    "registrations":16.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1690848000000,
+    "platform":"ios",
+    "visits":17.0,
+    "registrations":14.0,
+    "conversion":82.3529
+  },
+  {
+    "date_group":1690934400000,
+    "platform":"ios",
+    "visits":27.0,
+    "registrations":24.0,
+    "conversion":88.8889
+  },
+  {
+    "date_group":1691020800000,
+    "platform":"ios",
+    "visits":20.0,
+    "registrations":16.0,
+    "conversion":80.0
+  },
+  {
+    "date_group":1691107200000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":15.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1691193600000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":28.0,
+    "conversion":82.3529
+  },
+  {
+    "date_group":1691280000000,
+    "platform":"ios",
+    "visits":17.0,
+    "registrations":15.0,
+    "conversion":88.2353
+  },
+  {
+    "date_group":1691366400000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":24.0,
+    "conversion":70.5882
+  },
+  {
+    "date_group":1691452800000,
+    "platform":"ios",
+    "visits":31.0,
+    "registrations":22.0,
+    "conversion":70.9677
+  },
+  {
+    "date_group":1691539200000,
+    "platform":"ios",
+    "visits":33.0,
+    "registrations":24.0,
+    "conversion":72.7273
+  },
+  {
+    "date_group":1691625600000,
+    "platform":"ios",
+    "visits":15.0,
+    "registrations":11.0,
+    "conversion":73.3333
+  },
+  {
+    "date_group":1691712000000,
+    "platform":"ios",
+    "visits":14.0,
+    "registrations":10.0,
+    "conversion":71.4286
+  },
+  {
+    "date_group":1691798400000,
+    "platform":"ios",
+    "visits":27.0,
+    "registrations":21.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1691884800000,
+    "platform":"ios",
+    "visits":34.0,
+    "registrations":24.0,
+    "conversion":70.5882
+  },
+  {
+    "date_group":1691971200000,
+    "platform":"ios",
+    "visits":18.0,
+    "registrations":15.0,
+    "conversion":83.3333
+  },
+  {
+    "date_group":1692057600000,
+    "platform":"ios",
+    "visits":30.0,
+    "registrations":23.0,
+    "conversion":76.6667
+  },
+  {
+    "date_group":1692144000000,
+    "platform":"ios",
+    "visits":38.0,
+    "registrations":30.0,
+    "conversion":78.9474
+  },
+  {
+    "date_group":1692230400000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":28.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1692316800000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":28.0,
+    "conversion":77.7778
+  },
+  {
+    "date_group":1692403200000,
+    "platform":"ios",
+    "visits":32.0,
+    "registrations":23.0,
+    "conversion":71.875
+  },
+  {
+    "date_group":1692489600000,
+    "platform":"ios",
+    "visits":21.0,
+    "registrations":16.0,
+    "conversion":76.1905
+  },
+  {
+    "date_group":1692576000000,
+    "platform":"ios",
+    "visits":30.0,
+    "registrations":22.0,
+    "conversion":73.3333
+  },
+  {
+    "date_group":1692662400000,
+    "platform":"ios",
+    "visits":37.0,
+    "registrations":29.0,
+    "conversion":78.3784
+  },
+  {
+    "date_group":1692748800000,
+    "platform":"ios",
+    "visits":38.0,
+    "registrations":29.0,
+    "conversion":76.3158
+  },
+  {
+    "date_group":1692835200000,
+    "platform":"ios",
+    "visits":54.0,
+    "registrations":43.0,
+    "conversion":79.6296
+  },
+  {
+    "date_group":1692921600000,
+    "platform":"ios",
+    "visits":36.0,
+    "registrations":25.0,
+    "conversion":69.4444
+  },
+  {
+    "date_group":1693008000000,
+    "platform":"ios",
+    "visits":60.0,
+    "registrations":41.0,
+    "conversion":68.3333
+  },
+  {
+    "date_group":1693094400000,
+    "platform":"ios",
+    "visits":24.0,
+    "registrations":18.0,
+    "conversion":75.0
+  },
+  {
+    "date_group":1693180800000,
+    "platform":"ios",
+    "visits":35.0,
+    "registrations":23.0,
+    "conversion":65.7143
+  },
+  {
+    "date_group":1693267200000,
+    "platform":"ios",
+    "visits":28.0,
+    "registrations":23.0,
+    "conversion":82.1429
+  },
+  {
+    "date_group":1693353600000,
+    "platform":"ios",
+    "visits":66.0,
+    "registrations":40.0,
+    "conversion":60.6061
+  },
+  {
+    "date_group":1693440000000,
+    "platform":"ios",
+    "visits":50.0,
+    "registrations":36.0,
+    "conversion":72.0
   },
   {
     "date_group":1677628800000,
     "platform":"web",
-    "visits":279,
-    "registrations":8,
+    "visits":279.0,
+    "registrations":8.0,
     "conversion":2.8674
   },
   {
     "date_group":1677715200000,
-    "platform":"android",
-    "visits":67,
-    "registrations":59,
-    "conversion":88.0597
-  },
-  {
-    "date_group":1677715200000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":24,
-    "conversion":77.4194
-  },
-  {
-    "date_group":1677715200000,
     "platform":"web",
-    "visits":515,
-    "registrations":23,
+    "visits":515.0,
+    "registrations":23.0,
     "conversion":4.466
   },
   {
     "date_group":1677801600000,
-    "platform":"android",
-    "visits":26,
-    "registrations":22,
-    "conversion":84.6154
-  },
-  {
-    "date_group":1677801600000,
-    "platform":"ios",
-    "visits":40,
-    "registrations":34,
-    "conversion":85.0
-  },
-  {
-    "date_group":1677801600000,
     "platform":"web",
-    "visits":617,
-    "registrations":51,
+    "visits":617.0,
+    "registrations":51.0,
     "conversion":8.2658
   },
   {
     "date_group":1677888000000,
-    "platform":"android",
-    "visits":94,
-    "registrations":77,
-    "conversion":81.9149
-  },
-  {
-    "date_group":1677888000000,
-    "platform":"bot",
-    "visits":184,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1677888000000,
-    "platform":"ios",
-    "visits":68,
-    "registrations":43,
-    "conversion":63.2353
-  },
-  {
-    "date_group":1677888000000,
     "platform":"web",
-    "visits":485,
-    "registrations":39,
+    "visits":485.0,
+    "registrations":39.0,
     "conversion":8.0412
   },
   {
     "date_group":1677974400000,
-    "platform":"android",
-    "visits":66,
-    "registrations":54,
-    "conversion":81.8182
-  },
-  {
-    "date_group":1677974400000,
-    "platform":"bot",
-    "visits":226,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1677974400000,
-    "platform":"ios",
-    "visits":16,
-    "registrations":13,
-    "conversion":81.25
-  },
-  {
-    "date_group":1677974400000,
     "platform":"web",
-    "visits":625,
-    "registrations":48,
+    "visits":625.0,
+    "registrations":48.0,
     "conversion":7.68
   },
   {
     "date_group":1678060800000,
-    "platform":"android",
-    "visits":150,
-    "registrations":109,
-    "conversion":72.6667
-  },
-  {
-    "date_group":1678060800000,
-    "platform":"bot",
-    "visits":101,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1678060800000,
-    "platform":"ios",
-    "visits":57,
-    "registrations":43,
-    "conversion":75.4386
-  },
-  {
-    "date_group":1678060800000,
     "platform":"web",
-    "visits":1084,
-    "registrations":78,
+    "visits":1084.0,
+    "registrations":78.0,
     "conversion":7.1956
   },
   {
     "date_group":1678147200000,
-    "platform":"android",
-    "visits":62,
-    "registrations":50,
-    "conversion":80.6452
-  },
-  {
-    "date_group":1678147200000,
-    "platform":"bot",
-    "visits":90,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1678147200000,
-    "platform":"ios",
-    "visits":25,
-    "registrations":19,
-    "conversion":76.0
-  },
-  {
-    "date_group":1678147200000,
     "platform":"web",
-    "visits":1295,
-    "registrations":55,
+    "visits":1295.0,
+    "registrations":55.0,
     "conversion":4.2471
   },
   {
     "date_group":1678233600000,
-    "platform":"android",
-    "visits":119,
-    "registrations":74,
-    "conversion":62.1849
-  },
-  {
-    "date_group":1678233600000,
-    "platform":"bot",
-    "visits":224,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1678233600000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":18,
-    "conversion":64.2857
-  },
-  {
-    "date_group":1678233600000,
     "platform":"web",
-    "visits":1235,
-    "registrations":59,
+    "visits":1235.0,
+    "registrations":59.0,
     "conversion":4.7773
   },
   {
     "date_group":1678320000000,
-    "platform":"android",
-    "visits":138,
-    "registrations":106,
-    "conversion":76.8116
-  },
-  {
-    "date_group":1678320000000,
-    "platform":"bot",
-    "visits":168,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1678320000000,
-    "platform":"ios",
-    "visits":43,
-    "registrations":34,
-    "conversion":79.0698
-  },
-  {
-    "date_group":1678320000000,
     "platform":"web",
-    "visits":883,
-    "registrations":69,
+    "visits":883.0,
+    "registrations":69.0,
     "conversion":7.8143
   },
   {
     "date_group":1678406400000,
-    "platform":"android",
-    "visits":87,
-    "registrations":59,
-    "conversion":67.8161
-  },
-  {
-    "date_group":1678406400000,
-    "platform":"bot",
-    "visits":233,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1678406400000,
-    "platform":"ios",
-    "visits":23,
-    "registrations":16,
-    "conversion":69.5652
-  },
-  {
-    "date_group":1678406400000,
     "platform":"web",
-    "visits":702,
-    "registrations":37,
+    "visits":702.0,
+    "registrations":37.0,
     "conversion":5.2707
   },
   {
     "date_group":1678492800000,
-    "platform":"android",
-    "visits":47,
-    "registrations":37,
-    "conversion":78.7234
-  },
-  {
-    "date_group":1678492800000,
-    "platform":"ios",
-    "visits":46,
-    "registrations":30,
-    "conversion":65.2174
-  },
-  {
-    "date_group":1678492800000,
     "platform":"web",
-    "visits":1197,
-    "registrations":72,
+    "visits":1197.0,
+    "registrations":72.0,
     "conversion":6.015
   },
   {
     "date_group":1678579200000,
-    "platform":"android",
-    "visits":130,
-    "registrations":87,
-    "conversion":66.9231
-  },
-  {
-    "date_group":1678579200000,
-    "platform":"ios",
-    "visits":74,
-    "registrations":54,
-    "conversion":72.973
-  },
-  {
-    "date_group":1678579200000,
     "platform":"web",
-    "visits":1190,
-    "registrations":78,
+    "visits":1190.0,
+    "registrations":78.0,
     "conversion":6.5546
   },
   {
     "date_group":1678665600000,
-    "platform":"android",
-    "visits":147,
-    "registrations":109,
-    "conversion":74.1497
-  },
-  {
-    "date_group":1678665600000,
-    "platform":"ios",
-    "visits":29,
-    "registrations":18,
-    "conversion":62.069
-  },
-  {
-    "date_group":1678665600000,
     "platform":"web",
-    "visits":717,
-    "registrations":37,
+    "visits":717.0,
+    "registrations":37.0,
     "conversion":5.1604
   },
   {
     "date_group":1678752000000,
-    "platform":"android",
-    "visits":66,
-    "registrations":53,
-    "conversion":80.303
-  },
-  {
-    "date_group":1678752000000,
-    "platform":"ios",
-    "visits":37,
-    "registrations":23,
-    "conversion":62.1622
-  },
-  {
-    "date_group":1678752000000,
     "platform":"web",
-    "visits":872,
-    "registrations":68,
+    "visits":872.0,
+    "registrations":68.0,
     "conversion":7.7982
   },
   {
     "date_group":1678838400000,
-    "platform":"android",
-    "visits":78,
-    "registrations":60,
-    "conversion":76.9231
-  },
-  {
-    "date_group":1678838400000,
-    "platform":"ios",
-    "visits":42,
-    "registrations":31,
-    "conversion":73.8095
-  },
-  {
-    "date_group":1678838400000,
     "platform":"web",
-    "visits":1077,
-    "registrations":39,
+    "visits":1077.0,
+    "registrations":39.0,
     "conversion":3.6212
   },
   {
     "date_group":1678924800000,
-    "platform":"android",
-    "visits":76,
-    "registrations":66,
-    "conversion":86.8421
-  },
-  {
-    "date_group":1678924800000,
-    "platform":"ios",
-    "visits":22,
-    "registrations":18,
-    "conversion":81.8182
-  },
-  {
-    "date_group":1678924800000,
     "platform":"web",
-    "visits":296,
-    "registrations":17,
+    "visits":296.0,
+    "registrations":17.0,
     "conversion":5.7432
   },
   {
     "date_group":1679011200000,
-    "platform":"android",
-    "visits":53,
-    "registrations":46,
-    "conversion":86.7925
-  },
-  {
-    "date_group":1679011200000,
-    "platform":"ios",
-    "visits":19,
-    "registrations":16,
-    "conversion":84.2105
-  },
-  {
-    "date_group":1679011200000,
     "platform":"web",
-    "visits":466,
-    "registrations":20,
+    "visits":466.0,
+    "registrations":20.0,
     "conversion":4.2918
   },
   {
     "date_group":1679097600000,
-    "platform":"android",
-    "visits":81,
-    "registrations":69,
-    "conversion":85.1852
-  },
-  {
-    "date_group":1679097600000,
-    "platform":"ios",
-    "visits":19,
-    "registrations":16,
-    "conversion":84.2105
-  },
-  {
-    "date_group":1679097600000,
     "platform":"web",
-    "visits":369,
-    "registrations":16,
+    "visits":369.0,
+    "registrations":16.0,
     "conversion":4.336
   },
   {
     "date_group":1679184000000,
-    "platform":"android",
-    "visits":61,
-    "registrations":52,
-    "conversion":85.2459
-  },
-  {
-    "date_group":1679184000000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":26,
-    "conversion":83.871
-  },
-  {
-    "date_group":1679184000000,
     "platform":"web",
-    "visits":657,
-    "registrations":29,
+    "visits":657.0,
+    "registrations":29.0,
     "conversion":4.414
   },
   {
     "date_group":1679270400000,
-    "platform":"android",
-    "visits":43,
-    "registrations":35,
-    "conversion":81.3953
-  },
-  {
-    "date_group":1679270400000,
-    "platform":"ios",
-    "visits":17,
-    "registrations":13,
-    "conversion":76.4706
-  },
-  {
-    "date_group":1679270400000,
     "platform":"web",
-    "visits":557,
-    "registrations":33,
+    "visits":557.0,
+    "registrations":33.0,
     "conversion":5.9246
   },
   {
     "date_group":1679356800000,
-    "platform":"android",
-    "visits":65,
-    "registrations":56,
-    "conversion":86.1538
-  },
-  {
-    "date_group":1679356800000,
-    "platform":"ios",
-    "visits":11,
-    "registrations":9,
-    "conversion":81.8182
-  },
-  {
-    "date_group":1679356800000,
     "platform":"web",
-    "visits":491,
-    "registrations":24,
+    "visits":491.0,
+    "registrations":24.0,
     "conversion":4.888
   },
   {
     "date_group":1679443200000,
-    "platform":"android",
-    "visits":77,
-    "registrations":68,
-    "conversion":88.3117
-  },
-  {
-    "date_group":1679443200000,
-    "platform":"ios",
-    "visits":37,
-    "registrations":32,
-    "conversion":86.4865
-  },
-  {
-    "date_group":1679443200000,
     "platform":"web",
-    "visits":341,
-    "registrations":30,
+    "visits":341.0,
+    "registrations":30.0,
     "conversion":8.7977
   },
   {
     "date_group":1679529600000,
-    "platform":"android",
-    "visits":66,
-    "registrations":55,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1679529600000,
-    "platform":"ios",
-    "visits":39,
-    "registrations":32,
-    "conversion":82.0513
-  },
-  {
-    "date_group":1679529600000,
     "platform":"web",
-    "visits":603,
-    "registrations":36,
+    "visits":603.0,
+    "registrations":36.0,
     "conversion":5.9701
   },
   {
     "date_group":1679616000000,
-    "platform":"android",
-    "visits":47,
-    "registrations":41,
-    "conversion":87.234
-  },
-  {
-    "date_group":1679616000000,
-    "platform":"ios",
-    "visits":17,
-    "registrations":13,
-    "conversion":76.4706
-  },
-  {
-    "date_group":1679616000000,
     "platform":"web",
-    "visits":461,
-    "registrations":15,
+    "visits":461.0,
+    "registrations":15.0,
     "conversion":3.2538
   },
   {
     "date_group":1679702400000,
-    "platform":"android",
-    "visits":50,
-    "registrations":40,
-    "conversion":80.0
-  },
-  {
-    "date_group":1679702400000,
-    "platform":"ios",
-    "visits":21,
-    "registrations":17,
-    "conversion":80.9524
-  },
-  {
-    "date_group":1679702400000,
     "platform":"web",
-    "visits":452,
-    "registrations":27,
+    "visits":452.0,
+    "registrations":27.0,
     "conversion":5.9735
   },
   {
     "date_group":1679788800000,
-    "platform":"android",
-    "visits":70,
-    "registrations":58,
-    "conversion":82.8571
-  },
-  {
-    "date_group":1679788800000,
-    "platform":"ios",
-    "visits":14,
-    "registrations":11,
-    "conversion":78.5714
-  },
-  {
-    "date_group":1679788800000,
     "platform":"web",
-    "visits":471,
-    "registrations":19,
+    "visits":471.0,
+    "registrations":19.0,
     "conversion":4.034
   },
   {
     "date_group":1679875200000,
-    "platform":"android",
-    "visits":80,
-    "registrations":67,
-    "conversion":83.75
-  },
-  {
-    "date_group":1679875200000,
-    "platform":"ios",
-    "visits":15,
-    "registrations":12,
-    "conversion":80.0
-  },
-  {
-    "date_group":1679875200000,
     "platform":"web",
-    "visits":482,
-    "registrations":44,
+    "visits":482.0,
+    "registrations":44.0,
     "conversion":9.1286
   },
   {
     "date_group":1679961600000,
-    "platform":"android",
-    "visits":59,
-    "registrations":48,
-    "conversion":81.3559
-  },
-  {
-    "date_group":1679961600000,
-    "platform":"ios",
-    "visits":46,
-    "registrations":34,
-    "conversion":73.913
-  },
-  {
-    "date_group":1679961600000,
     "platform":"web",
-    "visits":645,
-    "registrations":23,
+    "visits":645.0,
+    "registrations":23.0,
     "conversion":3.5659
   },
   {
     "date_group":1680048000000,
-    "platform":"android",
-    "visits":73,
-    "registrations":54,
-    "conversion":73.9726
-  },
-  {
-    "date_group":1680048000000,
-    "platform":"ios",
-    "visits":24,
-    "registrations":22,
-    "conversion":91.6667
-  },
-  {
-    "date_group":1680048000000,
     "platform":"web",
-    "visits":394,
-    "registrations":13,
+    "visits":394.0,
+    "registrations":13.0,
     "conversion":3.2995
   },
   {
     "date_group":1680134400000,
-    "platform":"android",
-    "visits":38,
-    "registrations":30,
-    "conversion":78.9474
-  },
-  {
-    "date_group":1680134400000,
-    "platform":"ios",
-    "visits":44,
-    "registrations":35,
-    "conversion":79.5455
-  },
-  {
-    "date_group":1680134400000,
     "platform":"web",
-    "visits":369,
-    "registrations":38,
+    "visits":369.0,
+    "registrations":38.0,
     "conversion":10.2981
   },
   {
     "date_group":1680220800000,
-    "platform":"android",
-    "visits":84,
-    "registrations":66,
-    "conversion":78.5714
-  },
-  {
-    "date_group":1680220800000,
-    "platform":"ios",
-    "visits":27,
-    "registrations":23,
-    "conversion":85.1852
-  },
-  {
-    "date_group":1680220800000,
     "platform":"web",
-    "visits":731,
-    "registrations":26,
+    "visits":731.0,
+    "registrations":26.0,
     "conversion":3.5568
   },
   {
     "date_group":1680307200000,
-    "platform":"android",
-    "visits":74,
-    "registrations":57,
-    "conversion":77.027
-  },
-  {
-    "date_group":1680307200000,
-    "platform":"ios",
-    "visits":68,
-    "registrations":53,
-    "conversion":77.9412
-  },
-  {
-    "date_group":1680307200000,
     "platform":"web",
-    "visits":765,
-    "registrations":49,
+    "visits":765.0,
+    "registrations":49.0,
     "conversion":6.4052
   },
   {
     "date_group":1680393600000,
-    "platform":"android",
-    "visits":69,
-    "registrations":58,
-    "conversion":84.058
-  },
-  {
-    "date_group":1680393600000,
-    "platform":"ios",
-    "visits":60,
-    "registrations":45,
-    "conversion":75.0
-  },
-  {
-    "date_group":1680393600000,
     "platform":"web",
-    "visits":811,
-    "registrations":59,
+    "visits":811.0,
+    "registrations":59.0,
     "conversion":7.275
   },
   {
     "date_group":1680480000000,
-    "platform":"android",
-    "visits":96,
-    "registrations":83,
-    "conversion":86.4583
-  },
-  {
-    "date_group":1680480000000,
-    "platform":"ios",
-    "visits":39,
-    "registrations":27,
-    "conversion":69.2308
-  },
-  {
-    "date_group":1680480000000,
     "platform":"web",
-    "visits":739,
-    "registrations":46,
+    "visits":739.0,
+    "registrations":46.0,
     "conversion":6.2246
   },
   {
     "date_group":1680566400000,
-    "platform":"android",
-    "visits":85,
-    "registrations":72,
-    "conversion":84.7059
-  },
-  {
-    "date_group":1680566400000,
-    "platform":"ios",
-    "visits":33,
-    "registrations":27,
-    "conversion":81.8182
-  },
-  {
-    "date_group":1680566400000,
     "platform":"web",
-    "visits":798,
-    "registrations":54,
+    "visits":798.0,
+    "registrations":54.0,
     "conversion":6.7669
   },
   {
     "date_group":1680652800000,
-    "platform":"android",
-    "visits":100,
-    "registrations":73,
-    "conversion":73.0
-  },
-  {
-    "date_group":1680652800000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":24,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1680652800000,
     "platform":"web",
-    "visits":624,
-    "registrations":34,
+    "visits":624.0,
+    "registrations":34.0,
     "conversion":5.4487
   },
   {
     "date_group":1680739200000,
-    "platform":"android",
-    "visits":108,
-    "registrations":93,
-    "conversion":86.1111
-  },
-  {
-    "date_group":1680739200000,
-    "platform":"ios",
-    "visits":24,
-    "registrations":18,
-    "conversion":75.0
-  },
-  {
-    "date_group":1680739200000,
     "platform":"web",
-    "visits":365,
-    "registrations":12,
+    "visits":365.0,
+    "registrations":12.0,
     "conversion":3.2877
   },
   {
     "date_group":1680825600000,
-    "platform":"android",
-    "visits":111,
-    "registrations":90,
-    "conversion":81.0811
-  },
-  {
-    "date_group":1680825600000,
-    "platform":"ios",
-    "visits":56,
-    "registrations":46,
-    "conversion":82.1429
-  },
-  {
-    "date_group":1680825600000,
     "platform":"web",
-    "visits":928,
-    "registrations":66,
+    "visits":928.0,
+    "registrations":66.0,
     "conversion":7.1121
   },
   {
     "date_group":1680912000000,
-    "platform":"android",
-    "visits":107,
-    "registrations":82,
-    "conversion":76.6355
-  },
-  {
-    "date_group":1680912000000,
-    "platform":"ios",
-    "visits":26,
-    "registrations":25,
-    "conversion":96.1538
-  },
-  {
-    "date_group":1680912000000,
     "platform":"web",
-    "visits":876,
-    "registrations":67,
+    "visits":876.0,
+    "registrations":67.0,
     "conversion":7.6484
   },
   {
     "date_group":1680998400000,
-    "platform":"android",
-    "visits":81,
-    "registrations":68,
-    "conversion":83.9506
-  },
-  {
-    "date_group":1680998400000,
-    "platform":"ios",
-    "visits":25,
-    "registrations":21,
-    "conversion":84.0
-  },
-  {
-    "date_group":1680998400000,
     "platform":"web",
-    "visits":548,
-    "registrations":30,
+    "visits":548.0,
+    "registrations":30.0,
     "conversion":5.4745
   },
   {
     "date_group":1681084800000,
-    "platform":"android",
-    "visits":132,
-    "registrations":109,
-    "conversion":82.5758
-  },
-  {
-    "date_group":1681084800000,
-    "platform":"bot",
-    "visits":208,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681084800000,
-    "platform":"ios",
-    "visits":37,
-    "registrations":29,
-    "conversion":78.3784
-  },
-  {
-    "date_group":1681084800000,
     "platform":"web",
-    "visits":494,
-    "registrations":27,
+    "visits":494.0,
+    "registrations":27.0,
     "conversion":5.4656
   },
   {
     "date_group":1681171200000,
-    "platform":"android",
-    "visits":27,
-    "registrations":21,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1681171200000,
-    "platform":"bot",
-    "visits":166,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681171200000,
-    "platform":"ios",
-    "visits":41,
-    "registrations":33,
-    "conversion":80.4878
-  },
-  {
-    "date_group":1681171200000,
     "platform":"web",
-    "visits":633,
-    "registrations":63,
+    "visits":633.0,
+    "registrations":63.0,
     "conversion":9.9526
   },
   {
     "date_group":1681257600000,
-    "platform":"android",
-    "visits":91,
-    "registrations":79,
-    "conversion":86.8132
-  },
-  {
-    "date_group":1681257600000,
-    "platform":"bot",
-    "visits":182,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681257600000,
-    "platform":"ios",
-    "visits":29,
-    "registrations":26,
-    "conversion":89.6552
-  },
-  {
-    "date_group":1681257600000,
     "platform":"web",
-    "visits":438,
-    "registrations":31,
+    "visits":438.0,
+    "registrations":31.0,
     "conversion":7.0776
   },
   {
     "date_group":1681344000000,
-    "platform":"android",
-    "visits":84,
-    "registrations":71,
-    "conversion":84.5238
-  },
-  {
-    "date_group":1681344000000,
-    "platform":"bot",
-    "visits":194,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681344000000,
-    "platform":"ios",
-    "visits":39,
-    "registrations":32,
-    "conversion":82.0513
-  },
-  {
-    "date_group":1681344000000,
     "platform":"web",
-    "visits":976,
-    "registrations":74,
+    "visits":976.0,
+    "registrations":74.0,
     "conversion":7.582
   },
   {
     "date_group":1681430400000,
-    "platform":"android",
-    "visits":81,
-    "registrations":54,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1681430400000,
-    "platform":"bot",
-    "visits":191,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681430400000,
-    "platform":"ios",
-    "visits":44,
-    "registrations":37,
-    "conversion":84.0909
-  },
-  {
-    "date_group":1681430400000,
     "platform":"web",
-    "visits":419,
-    "registrations":28,
+    "visits":419.0,
+    "registrations":28.0,
     "conversion":6.6826
   },
   {
     "date_group":1681516800000,
-    "platform":"android",
-    "visits":45,
-    "registrations":35,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1681516800000,
-    "platform":"bot",
-    "visits":174,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681516800000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":15,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1681516800000,
     "platform":"web",
-    "visits":384,
-    "registrations":11,
+    "visits":384.0,
+    "registrations":11.0,
     "conversion":2.8646
   },
   {
     "date_group":1681603200000,
-    "platform":"android",
-    "visits":106,
-    "registrations":85,
-    "conversion":80.1887
-  },
-  {
-    "date_group":1681603200000,
-    "platform":"bot",
-    "visits":136,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1681603200000,
-    "platform":"ios",
-    "visits":50,
-    "registrations":45,
-    "conversion":90.0
-  },
-  {
-    "date_group":1681603200000,
     "platform":"web",
-    "visits":799,
-    "registrations":73,
+    "visits":799.0,
+    "registrations":73.0,
     "conversion":9.1364
   },
   {
     "date_group":1681689600000,
-    "platform":"android",
-    "visits":93,
-    "registrations":62,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1681689600000,
-    "platform":"ios",
-    "visits":40,
-    "registrations":35,
-    "conversion":87.5
-  },
-  {
-    "date_group":1681689600000,
     "platform":"web",
-    "visits":400,
-    "registrations":15,
+    "visits":400.0,
+    "registrations":15.0,
     "conversion":3.75
   },
   {
     "date_group":1681776000000,
-    "platform":"android",
-    "visits":67,
-    "registrations":55,
-    "conversion":82.0896
-  },
-  {
-    "date_group":1681776000000,
-    "platform":"ios",
-    "visits":29,
-    "registrations":23,
-    "conversion":79.3103
-  },
-  {
-    "date_group":1681776000000,
     "platform":"web",
-    "visits":716,
-    "registrations":60,
+    "visits":716.0,
+    "registrations":60.0,
     "conversion":8.3799
   },
   {
     "date_group":1681862400000,
-    "platform":"android",
-    "visits":105,
-    "registrations":79,
-    "conversion":75.2381
-  },
-  {
-    "date_group":1681862400000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":26,
-    "conversion":92.8571
-  },
-  {
-    "date_group":1681862400000,
     "platform":"web",
-    "visits":663,
-    "registrations":47,
+    "visits":663.0,
+    "registrations":47.0,
     "conversion":7.089
   },
   {
     "date_group":1681948800000,
-    "platform":"android",
-    "visits":117,
-    "registrations":88,
-    "conversion":75.2137
-  },
-  {
-    "date_group":1681948800000,
-    "platform":"ios",
-    "visits":42,
-    "registrations":37,
-    "conversion":88.0952
-  },
-  {
-    "date_group":1681948800000,
     "platform":"web",
-    "visits":821,
-    "registrations":52,
+    "visits":821.0,
+    "registrations":52.0,
     "conversion":6.3337
   },
   {
     "date_group":1682035200000,
-    "platform":"android",
-    "visits":64,
-    "registrations":50,
-    "conversion":78.125
-  },
-  {
-    "date_group":1682035200000,
-    "platform":"ios",
-    "visits":14,
-    "registrations":12,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1682035200000,
     "platform":"web",
-    "visits":691,
-    "registrations":66,
+    "visits":691.0,
+    "registrations":66.0,
     "conversion":9.5514
   },
   {
     "date_group":1682121600000,
-    "platform":"android",
-    "visits":56,
-    "registrations":52,
-    "conversion":92.8571
-  },
-  {
-    "date_group":1682121600000,
-    "platform":"ios",
-    "visits":48,
-    "registrations":35,
-    "conversion":72.9167
-  },
-  {
-    "date_group":1682121600000,
     "platform":"web",
-    "visits":780,
-    "registrations":60,
+    "visits":780.0,
+    "registrations":60.0,
     "conversion":7.6923
   },
   {
     "date_group":1682208000000,
-    "platform":"android",
-    "visits":34,
-    "registrations":27,
-    "conversion":79.4118
-  },
-  {
-    "date_group":1682208000000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":25,
-    "conversion":73.5294
-  },
-  {
-    "date_group":1682208000000,
     "platform":"web",
-    "visits":858,
-    "registrations":67,
+    "visits":858.0,
+    "registrations":67.0,
     "conversion":7.8089
   },
   {
     "date_group":1682294400000,
-    "platform":"android",
-    "visits":123,
-    "registrations":87,
-    "conversion":70.7317
-  },
-  {
-    "date_group":1682294400000,
-    "platform":"ios",
-    "visits":50,
-    "registrations":38,
-    "conversion":76.0
-  },
-  {
-    "date_group":1682294400000,
     "platform":"web",
-    "visits":885,
-    "registrations":89,
+    "visits":885.0,
+    "registrations":89.0,
     "conversion":10.0565
   },
   {
     "date_group":1682380800000,
-    "platform":"android",
-    "visits":104,
-    "registrations":95,
-    "conversion":91.3462
-  },
-  {
-    "date_group":1682380800000,
-    "platform":"ios",
-    "visits":25,
-    "registrations":21,
-    "conversion":84.0
-  },
-  {
-    "date_group":1682380800000,
     "platform":"web",
-    "visits":530,
-    "registrations":38,
+    "visits":530.0,
+    "registrations":38.0,
     "conversion":7.1698
   },
   {
     "date_group":1682467200000,
-    "platform":"android",
-    "visits":39,
-    "registrations":28,
-    "conversion":71.7949
-  },
-  {
-    "date_group":1682467200000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":25,
-    "conversion":89.2857
-  },
-  {
-    "date_group":1682467200000,
     "platform":"web",
-    "visits":553,
-    "registrations":33,
+    "visits":553.0,
+    "registrations":33.0,
     "conversion":5.9675
   },
   {
     "date_group":1682553600000,
-    "platform":"android",
-    "visits":111,
-    "registrations":84,
-    "conversion":75.6757
-  },
-  {
-    "date_group":1682553600000,
-    "platform":"ios",
-    "visits":13,
-    "registrations":10,
-    "conversion":76.9231
-  },
-  {
-    "date_group":1682553600000,
     "platform":"web",
-    "visits":798,
-    "registrations":25,
+    "visits":798.0,
+    "registrations":25.0,
     "conversion":3.1328
   },
   {
     "date_group":1682640000000,
-    "platform":"android",
-    "visits":69,
-    "registrations":54,
-    "conversion":78.2609
-  },
-  {
-    "date_group":1682640000000,
-    "platform":"ios",
-    "visits":45,
-    "registrations":37,
-    "conversion":82.2222
-  },
-  {
-    "date_group":1682640000000,
     "platform":"web",
-    "visits":786,
-    "registrations":80,
+    "visits":786.0,
+    "registrations":80.0,
     "conversion":10.1781
   },
   {
     "date_group":1682726400000,
-    "platform":"android",
-    "visits":74,
-    "registrations":58,
-    "conversion":78.3784
-  },
-  {
-    "date_group":1682726400000,
-    "platform":"ios",
-    "visits":43,
-    "registrations":34,
-    "conversion":79.0698
-  },
-  {
-    "date_group":1682726400000,
     "platform":"web",
-    "visits":690,
-    "registrations":51,
+    "visits":690.0,
+    "registrations":51.0,
     "conversion":7.3913
   },
   {
     "date_group":1682812800000,
-    "platform":"android",
-    "visits":97,
-    "registrations":78,
-    "conversion":80.4124
-  },
-  {
-    "date_group":1682812800000,
-    "platform":"ios",
-    "visits":63,
-    "registrations":50,
-    "conversion":79.3651
-  },
-  {
-    "date_group":1682812800000,
     "platform":"web",
-    "visits":735,
-    "registrations":48,
+    "visits":735.0,
+    "registrations":48.0,
     "conversion":6.5306
   },
   {
     "date_group":1682899200000,
-    "platform":"android",
-    "visits":27,
-    "registrations":22,
-    "conversion":81.4815
-  },
-  {
-    "date_group":1682899200000,
-    "platform":"ios",
-    "visits":15,
-    "registrations":14,
-    "conversion":93.3333
-  },
-  {
-    "date_group":1682899200000,
     "platform":"web",
-    "visits":411,
-    "registrations":23,
+    "visits":411.0,
+    "registrations":23.0,
     "conversion":5.5961
   },
   {
     "date_group":1682985600000,
-    "platform":"android",
-    "visits":65,
-    "registrations":51,
-    "conversion":78.4615
-  },
-  {
-    "date_group":1682985600000,
-    "platform":"ios",
-    "visits":67,
-    "registrations":53,
-    "conversion":79.1045
-  },
-  {
-    "date_group":1682985600000,
     "platform":"web",
-    "visits":547,
-    "registrations":25,
+    "visits":547.0,
+    "registrations":25.0,
     "conversion":4.5704
   },
   {
     "date_group":1683072000000,
-    "platform":"android",
-    "visits":95,
-    "registrations":81,
-    "conversion":85.2632
-  },
-  {
-    "date_group":1683072000000,
-    "platform":"ios",
-    "visits":67,
-    "registrations":50,
-    "conversion":74.6269
-  },
-  {
-    "date_group":1683072000000,
     "platform":"web",
-    "visits":887,
-    "registrations":65,
+    "visits":887.0,
+    "registrations":65.0,
     "conversion":7.3281
   },
   {
     "date_group":1683158400000,
-    "platform":"android",
-    "visits":100,
-    "registrations":83,
-    "conversion":83.0
-  },
-  {
-    "date_group":1683158400000,
-    "platform":"ios",
-    "visits":39,
-    "registrations":35,
-    "conversion":89.7436
-  },
-  {
-    "date_group":1683158400000,
     "platform":"web",
-    "visits":513,
-    "registrations":20,
+    "visits":513.0,
+    "registrations":20.0,
     "conversion":3.8986
   },
   {
     "date_group":1683244800000,
-    "platform":"android",
-    "visits":108,
-    "registrations":94,
-    "conversion":87.037
-  },
-  {
-    "date_group":1683244800000,
-    "platform":"ios",
-    "visits":15,
-    "registrations":11,
-    "conversion":73.3333
-  },
-  {
-    "date_group":1683244800000,
     "platform":"web",
-    "visits":493,
-    "registrations":35,
+    "visits":493.0,
+    "registrations":35.0,
     "conversion":7.0994
   },
   {
     "date_group":1683331200000,
-    "platform":"android",
-    "visits":64,
-    "registrations":61,
-    "conversion":95.3125
-  },
-  {
-    "date_group":1683331200000,
-    "platform":"ios",
-    "visits":29,
-    "registrations":22,
-    "conversion":75.8621
-  },
-  {
-    "date_group":1683331200000,
     "platform":"web",
-    "visits":795,
-    "registrations":53,
+    "visits":795.0,
+    "registrations":53.0,
     "conversion":6.6667
   },
   {
     "date_group":1683417600000,
-    "platform":"android",
-    "visits":42,
-    "registrations":34,
-    "conversion":80.9524
-  },
-  {
-    "date_group":1683417600000,
-    "platform":"ios",
-    "visits":30,
-    "registrations":24,
-    "conversion":80.0
-  },
-  {
-    "date_group":1683417600000,
     "platform":"web",
-    "visits":501,
-    "registrations":39,
+    "visits":501.0,
+    "registrations":39.0,
     "conversion":7.7844
   },
   {
     "date_group":1683504000000,
-    "platform":"android",
-    "visits":35,
-    "registrations":28,
-    "conversion":80.0
-  },
-  {
-    "date_group":1683504000000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":26,
-    "conversion":83.871
-  },
-  {
-    "date_group":1683504000000,
     "platform":"web",
-    "visits":554,
-    "registrations":23,
+    "visits":554.0,
+    "registrations":23.0,
     "conversion":4.1516
   },
   {
     "date_group":1683590400000,
-    "platform":"android",
-    "visits":33,
-    "registrations":27,
-    "conversion":81.8182
-  },
-  {
-    "date_group":1683590400000,
-    "platform":"ios",
-    "visits":33,
-    "registrations":26,
-    "conversion":78.7879
-  },
-  {
-    "date_group":1683590400000,
     "platform":"web",
-    "visits":662,
-    "registrations":39,
+    "visits":662.0,
+    "registrations":39.0,
     "conversion":5.8912
   },
   {
     "date_group":1683676800000,
-    "platform":"android",
-    "visits":94,
-    "registrations":77,
-    "conversion":81.9149
-  },
-  {
-    "date_group":1683676800000,
-    "platform":"ios",
-    "visits":15,
-    "registrations":12,
-    "conversion":80.0
-  },
-  {
-    "date_group":1683676800000,
     "platform":"web",
-    "visits":467,
-    "registrations":43,
+    "visits":467.0,
+    "registrations":43.0,
     "conversion":9.2077
   },
   {
     "date_group":1683763200000,
-    "platform":"android",
-    "visits":27,
-    "registrations":21,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1683763200000,
-    "platform":"ios",
-    "visits":21,
-    "registrations":18,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1683763200000,
     "platform":"web",
-    "visits":296,
-    "registrations":29,
+    "visits":296.0,
+    "registrations":29.0,
     "conversion":9.7973
   },
   {
     "date_group":1683849600000,
-    "platform":"android",
-    "visits":91,
-    "registrations":79,
-    "conversion":86.8132
-  },
-  {
-    "date_group":1683849600000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":14,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1683849600000,
     "platform":"web",
-    "visits":425,
-    "registrations":24,
+    "visits":425.0,
+    "registrations":24.0,
     "conversion":5.6471
   },
   {
     "date_group":1683936000000,
-    "platform":"android",
-    "visits":39,
-    "registrations":33,
-    "conversion":84.6154
-  },
-  {
-    "date_group":1683936000000,
-    "platform":"ios",
-    "visits":10,
-    "registrations":8,
-    "conversion":80.0
-  },
-  {
-    "date_group":1683936000000,
     "platform":"web",
-    "visits":452,
-    "registrations":34,
+    "visits":452.0,
+    "registrations":34.0,
     "conversion":7.5221
   },
   {
     "date_group":1684022400000,
-    "platform":"android",
-    "visits":60,
-    "registrations":49,
-    "conversion":81.6667
-  },
-  {
-    "date_group":1684022400000,
-    "platform":"ios",
-    "visits":22,
-    "registrations":18,
-    "conversion":81.8182
-  },
-  {
-    "date_group":1684022400000,
     "platform":"web",
-    "visits":592,
-    "registrations":26,
+    "visits":592.0,
+    "registrations":26.0,
     "conversion":4.3919
   },
   {
     "date_group":1684108800000,
-    "platform":"android",
-    "visits":39,
-    "registrations":31,
-    "conversion":79.4872
-  },
-  {
-    "date_group":1684108800000,
-    "platform":"ios",
-    "visits":32,
-    "registrations":26,
-    "conversion":81.25
-  },
-  {
-    "date_group":1684108800000,
     "platform":"web",
-    "visits":320,
-    "registrations":29,
+    "visits":320.0,
+    "registrations":29.0,
     "conversion":9.0625
   },
   {
     "date_group":1684195200000,
-    "platform":"android",
-    "visits":38,
-    "registrations":33,
-    "conversion":86.8421
-  },
-  {
-    "date_group":1684195200000,
-    "platform":"ios",
-    "visits":33,
-    "registrations":28,
-    "conversion":84.8485
-  },
-  {
-    "date_group":1684195200000,
     "platform":"web",
-    "visits":650,
-    "registrations":39,
+    "visits":650.0,
+    "registrations":39.0,
     "conversion":6.0
   },
   {
     "date_group":1684281600000,
-    "platform":"android",
-    "visits":47,
-    "registrations":41,
-    "conversion":87.234
-  },
-  {
-    "date_group":1684281600000,
-    "platform":"bot",
-    "visits":122,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684281600000,
-    "platform":"ios",
-    "visits":41,
-    "registrations":34,
-    "conversion":82.9268
-  },
-  {
-    "date_group":1684281600000,
     "platform":"web",
-    "visits":288,
-    "registrations":12,
+    "visits":288.0,
+    "registrations":12.0,
     "conversion":4.1667
   },
   {
     "date_group":1684368000000,
-    "platform":"android",
-    "visits":26,
-    "registrations":22,
-    "conversion":84.6154
-  },
-  {
-    "date_group":1684368000000,
-    "platform":"bot",
-    "visits":135,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684368000000,
-    "platform":"ios",
-    "visits":25,
-    "registrations":21,
-    "conversion":84.0
-  },
-  {
-    "date_group":1684368000000,
     "platform":"web",
-    "visits":393,
-    "registrations":29,
+    "visits":393.0,
+    "registrations":29.0,
     "conversion":7.3791
   },
   {
     "date_group":1684454400000,
-    "platform":"android",
-    "visits":52,
-    "registrations":42,
-    "conversion":80.7692
-  },
-  {
-    "date_group":1684454400000,
-    "platform":"bot",
-    "visits":233,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684454400000,
-    "platform":"ios",
-    "visits":37,
-    "registrations":31,
-    "conversion":83.7838
-  },
-  {
-    "date_group":1684454400000,
     "platform":"web",
-    "visits":598,
-    "registrations":39,
+    "visits":598.0,
+    "registrations":39.0,
     "conversion":6.5217
   },
   {
     "date_group":1684540800000,
-    "platform":"android",
-    "visits":48,
-    "registrations":41,
-    "conversion":85.4167
-  },
-  {
-    "date_group":1684540800000,
-    "platform":"bot",
-    "visits":140,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684540800000,
-    "platform":"ios",
-    "visits":32,
-    "registrations":26,
-    "conversion":81.25
-  },
-  {
-    "date_group":1684540800000,
     "platform":"web",
-    "visits":324,
-    "registrations":11,
+    "visits":324.0,
+    "registrations":11.0,
     "conversion":3.3951
   },
   {
     "date_group":1684627200000,
-    "platform":"android",
-    "visits":80,
-    "registrations":68,
-    "conversion":85.0
-  },
-  {
-    "date_group":1684627200000,
-    "platform":"bot",
-    "visits":131,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684627200000,
-    "platform":"ios",
-    "visits":12,
-    "registrations":10,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1684627200000,
     "platform":"web",
-    "visits":444,
-    "registrations":35,
+    "visits":444.0,
+    "registrations":35.0,
     "conversion":7.8829
   },
   {
     "date_group":1684713600000,
-    "platform":"android",
-    "visits":75,
-    "registrations":63,
-    "conversion":84.0
-  },
-  {
-    "date_group":1684713600000,
-    "platform":"bot",
-    "visits":137,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684713600000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":22,
-    "conversion":78.5714
-  },
-  {
-    "date_group":1684713600000,
     "platform":"web",
-    "visits":754,
-    "registrations":58,
+    "visits":754.0,
+    "registrations":58.0,
     "conversion":7.6923
   },
   {
     "date_group":1684800000000,
-    "platform":"android",
-    "visits":83,
-    "registrations":64,
-    "conversion":77.1084
-  },
-  {
-    "date_group":1684800000000,
-    "platform":"bot",
-    "visits":225,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1684800000000,
-    "platform":"ios",
-    "visits":24,
-    "registrations":17,
-    "conversion":70.8333
-  },
-  {
-    "date_group":1684800000000,
     "platform":"web",
-    "visits":481,
-    "registrations":40,
+    "visits":481.0,
+    "registrations":40.0,
     "conversion":8.316
   },
   {
     "date_group":1684886400000,
-    "platform":"android",
-    "visits":61,
-    "registrations":49,
-    "conversion":80.3279
-  },
-  {
-    "date_group":1684886400000,
-    "platform":"ios",
-    "visits":40,
-    "registrations":27,
-    "conversion":67.5
-  },
-  {
-    "date_group":1684886400000,
     "platform":"web",
-    "visits":783,
-    "registrations":51,
+    "visits":783.0,
+    "registrations":51.0,
     "conversion":6.5134
   },
   {
     "date_group":1684972800000,
-    "platform":"android",
-    "visits":65,
-    "registrations":48,
-    "conversion":73.8462
-  },
-  {
-    "date_group":1684972800000,
-    "platform":"ios",
-    "visits":19,
-    "registrations":14,
-    "conversion":73.6842
-  },
-  {
-    "date_group":1684972800000,
     "platform":"web",
-    "visits":406,
-    "registrations":25,
+    "visits":406.0,
+    "registrations":25.0,
     "conversion":6.1576
   },
   {
     "date_group":1685059200000,
-    "platform":"android",
-    "visits":113,
-    "registrations":86,
-    "conversion":76.1062
-  },
-  {
-    "date_group":1685059200000,
-    "platform":"ios",
-    "visits":8,
-    "registrations":6,
-    "conversion":75.0
-  },
-  {
-    "date_group":1685059200000,
     "platform":"web",
-    "visits":395,
-    "registrations":25,
+    "visits":395.0,
+    "registrations":25.0,
     "conversion":6.3291
   },
   {
     "date_group":1685145600000,
-    "platform":"android",
-    "visits":84,
-    "registrations":63,
-    "conversion":75.0
-  },
-  {
-    "date_group":1685145600000,
-    "platform":"ios",
-    "visits":17,
-    "registrations":13,
-    "conversion":76.4706
-  },
-  {
-    "date_group":1685145600000,
     "platform":"web",
-    "visits":429,
-    "registrations":16,
+    "visits":429.0,
+    "registrations":16.0,
     "conversion":3.7296
   },
   {
     "date_group":1685232000000,
-    "platform":"android",
-    "visits":35,
-    "registrations":28,
-    "conversion":80.0
-  },
-  {
-    "date_group":1685232000000,
-    "platform":"ios",
-    "visits":44,
-    "registrations":33,
-    "conversion":75.0
-  },
-  {
-    "date_group":1685232000000,
     "platform":"web",
-    "visits":614,
-    "registrations":52,
+    "visits":614.0,
+    "registrations":52.0,
     "conversion":8.4691
   },
   {
     "date_group":1685318400000,
-    "platform":"android",
-    "visits":43,
-    "registrations":34,
-    "conversion":79.0698
-  },
-  {
-    "date_group":1685318400000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":15,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1685318400000,
     "platform":"web",
-    "visits":351,
-    "registrations":30,
+    "visits":351.0,
+    "registrations":30.0,
     "conversion":8.547
   },
   {
     "date_group":1685404800000,
-    "platform":"android",
-    "visits":45,
-    "registrations":34,
-    "conversion":75.5556
-  },
-  {
-    "date_group":1685404800000,
-    "platform":"ios",
-    "visits":21,
-    "registrations":14,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1685404800000,
     "platform":"web",
-    "visits":814,
-    "registrations":26,
+    "visits":814.0,
+    "registrations":26.0,
     "conversion":3.1941
   },
   {
     "date_group":1685491200000,
-    "platform":"android",
-    "visits":61,
-    "registrations":42,
-    "conversion":68.8525
-  },
-  {
-    "date_group":1685491200000,
-    "platform":"ios",
-    "visits":32,
-    "registrations":24,
-    "conversion":75.0
-  },
-  {
-    "date_group":1685491200000,
     "platform":"web",
-    "visits":763,
-    "registrations":51,
+    "visits":763.0,
+    "registrations":51.0,
     "conversion":6.6841
   },
   {
     "date_group":1685577600000,
-    "platform":"android",
-    "visits":68,
-    "registrations":56,
-    "conversion":82.3529
-  },
-  {
-    "date_group":1685577600000,
-    "platform":"ios",
-    "visits":53,
-    "registrations":39,
-    "conversion":73.5849
-  },
-  {
-    "date_group":1685577600000,
     "platform":"web",
-    "visits":519,
-    "registrations":29,
+    "visits":519.0,
+    "registrations":29.0,
     "conversion":5.5877
   },
   {
     "date_group":1685664000000,
-    "platform":"android",
-    "visits":34,
-    "registrations":25,
-    "conversion":73.5294
-  },
-  {
-    "date_group":1685664000000,
-    "platform":"ios",
-    "visits":14,
-    "registrations":11,
-    "conversion":78.5714
-  },
-  {
-    "date_group":1685664000000,
     "platform":"web",
-    "visits":438,
-    "registrations":12,
+    "visits":438.0,
+    "registrations":12.0,
     "conversion":2.7397
   },
   {
     "date_group":1685750400000,
-    "platform":"android",
-    "visits":79,
-    "registrations":59,
-    "conversion":74.6835
-  },
-  {
-    "date_group":1685750400000,
-    "platform":"bot",
-    "visits":127,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1685750400000,
-    "platform":"ios",
-    "visits":40,
-    "registrations":31,
-    "conversion":77.5
-  },
-  {
-    "date_group":1685750400000,
     "platform":"web",
-    "visits":645,
-    "registrations":49,
+    "visits":645.0,
+    "registrations":49.0,
     "conversion":7.5969
   },
   {
     "date_group":1685836800000,
-    "platform":"android",
-    "visits":87,
-    "registrations":67,
-    "conversion":77.0115
-  },
-  {
-    "date_group":1685836800000,
-    "platform":"bot",
-    "visits":192,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1685836800000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":23,
-    "conversion":82.1429
-  },
-  {
-    "date_group":1685836800000,
     "platform":"web",
-    "visits":346,
-    "registrations":30,
+    "visits":346.0,
+    "registrations":30.0,
     "conversion":8.6705
   },
   {
     "date_group":1685923200000,
-    "platform":"android",
-    "visits":44,
-    "registrations":34,
-    "conversion":77.2727
-  },
-  {
-    "date_group":1685923200000,
-    "platform":"bot",
-    "visits":192,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1685923200000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":25,
-    "conversion":80.6452
-  },
-  {
-    "date_group":1685923200000,
     "platform":"web",
-    "visits":879,
-    "registrations":55,
+    "visits":879.0,
+    "registrations":55.0,
     "conversion":6.2571
   },
   {
     "date_group":1686009600000,
-    "platform":"android",
-    "visits":50,
-    "registrations":41,
-    "conversion":82.0
-  },
-  {
-    "date_group":1686009600000,
-    "platform":"bot",
-    "visits":215,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1686009600000,
-    "platform":"ios",
-    "visits":24,
-    "registrations":22,
-    "conversion":91.6667
-  },
-  {
-    "date_group":1686009600000,
     "platform":"web",
-    "visits":603,
-    "registrations":45,
+    "visits":603.0,
+    "registrations":45.0,
     "conversion":7.4627
   },
   {
     "date_group":1686096000000,
-    "platform":"android",
-    "visits":72,
-    "registrations":58,
-    "conversion":80.5556
-  },
-  {
-    "date_group":1686096000000,
-    "platform":"bot",
-    "visits":215,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1686096000000,
-    "platform":"ios",
-    "visits":22,
-    "registrations":17,
-    "conversion":77.2727
-  },
-  {
-    "date_group":1686096000000,
     "platform":"web",
-    "visits":552,
-    "registrations":20,
+    "visits":552.0,
+    "registrations":20.0,
     "conversion":3.6232
   },
   {
     "date_group":1686182400000,
-    "platform":"android",
-    "visits":42,
-    "registrations":30,
-    "conversion":71.4286
-  },
-  {
-    "date_group":1686182400000,
-    "platform":"bot",
-    "visits":213,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1686182400000,
-    "platform":"ios",
-    "visits":16,
-    "registrations":13,
-    "conversion":81.25
-  },
-  {
-    "date_group":1686182400000,
     "platform":"web",
-    "visits":650,
-    "registrations":29,
+    "visits":650.0,
+    "registrations":29.0,
     "conversion":4.4615
   },
   {
     "date_group":1686268800000,
-    "platform":"android",
-    "visits":79,
-    "registrations":62,
-    "conversion":78.481
-  },
-  {
-    "date_group":1686268800000,
-    "platform":"bot",
-    "visits":137,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1686268800000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":14,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1686268800000,
     "platform":"web",
-    "visits":632,
-    "registrations":39,
+    "visits":632.0,
+    "registrations":39.0,
     "conversion":6.1709
   },
   {
     "date_group":1686355200000,
-    "platform":"android",
-    "visits":72,
-    "registrations":58,
-    "conversion":80.5556
-  },
-  {
-    "date_group":1686355200000,
-    "platform":"ios",
-    "visits":42,
-    "registrations":34,
-    "conversion":80.9524
-  },
-  {
-    "date_group":1686355200000,
     "platform":"web",
-    "visits":429,
-    "registrations":33,
+    "visits":429.0,
+    "registrations":33.0,
     "conversion":7.6923
   },
   {
     "date_group":1686441600000,
-    "platform":"android",
-    "visits":85,
-    "registrations":70,
-    "conversion":82.3529
-  },
-  {
-    "date_group":1686441600000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":14,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1686441600000,
     "platform":"web",
-    "visits":360,
-    "registrations":16,
+    "visits":360.0,
+    "registrations":16.0,
     "conversion":4.4444
   },
   {
     "date_group":1686528000000,
-    "platform":"android",
-    "visits":61,
-    "registrations":51,
-    "conversion":83.6066
-  },
-  {
-    "date_group":1686528000000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":28,
-    "conversion":82.3529
-  },
-  {
-    "date_group":1686528000000,
     "platform":"web",
-    "visits":437,
-    "registrations":28,
+    "visits":437.0,
+    "registrations":28.0,
     "conversion":6.4073
   },
   {
     "date_group":1686614400000,
-    "platform":"android",
-    "visits":34,
-    "registrations":27,
-    "conversion":79.4118
-  },
-  {
-    "date_group":1686614400000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":24,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1686614400000,
     "platform":"web",
-    "visits":512,
-    "registrations":18,
+    "visits":512.0,
+    "registrations":18.0,
     "conversion":3.5156
   },
   {
     "date_group":1686700800000,
-    "platform":"android",
-    "visits":75,
-    "registrations":66,
-    "conversion":88.0
-  },
-  {
-    "date_group":1686700800000,
-    "platform":"ios",
-    "visits":16,
-    "registrations":13,
-    "conversion":81.25
-  },
-  {
-    "date_group":1686700800000,
     "platform":"web",
-    "visits":347,
-    "registrations":15,
+    "visits":347.0,
+    "registrations":15.0,
     "conversion":4.3228
   },
   {
     "date_group":1686787200000,
-    "platform":"android",
-    "visits":42,
-    "registrations":34,
-    "conversion":80.9524
-  },
-  {
-    "date_group":1686787200000,
-    "platform":"ios",
-    "visits":35,
-    "registrations":28,
-    "conversion":80.0
-  },
-  {
-    "date_group":1686787200000,
     "platform":"web",
-    "visits":544,
-    "registrations":51,
+    "visits":544.0,
+    "registrations":51.0,
     "conversion":9.375
   },
   {
     "date_group":1686873600000,
-    "platform":"android",
-    "visits":60,
-    "registrations":51,
-    "conversion":85.0
-  },
-  {
-    "date_group":1686873600000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":25,
-    "conversion":80.6452
-  },
-  {
-    "date_group":1686873600000,
     "platform":"web",
-    "visits":391,
-    "registrations":21,
+    "visits":391.0,
+    "registrations":21.0,
     "conversion":5.3708
   },
   {
     "date_group":1686960000000,
-    "platform":"android",
-    "visits":58,
-    "registrations":47,
-    "conversion":81.0345
-  },
-  {
-    "date_group":1686960000000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":30,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1686960000000,
     "platform":"web",
-    "visits":412,
-    "registrations":18,
+    "visits":412.0,
+    "registrations":18.0,
     "conversion":4.3689
   },
   {
     "date_group":1687046400000,
-    "platform":"android",
-    "visits":74,
-    "registrations":61,
-    "conversion":82.4324
-  },
-  {
-    "date_group":1687046400000,
-    "platform":"ios",
-    "visits":39,
-    "registrations":34,
-    "conversion":87.1795
-  },
-  {
-    "date_group":1687046400000,
     "platform":"web",
-    "visits":605,
-    "registrations":18,
+    "visits":605.0,
+    "registrations":18.0,
     "conversion":2.9752
   },
   {
     "date_group":1687132800000,
-    "platform":"android",
-    "visits":79,
-    "registrations":67,
-    "conversion":84.8101
-  },
-  {
-    "date_group":1687132800000,
-    "platform":"ios",
-    "visits":16,
-    "registrations":14,
-    "conversion":87.5
-  },
-  {
-    "date_group":1687132800000,
     "platform":"web",
-    "visits":354,
-    "registrations":17,
+    "visits":354.0,
+    "registrations":17.0,
     "conversion":4.8023
   },
   {
     "date_group":1687219200000,
-    "platform":"android",
-    "visits":25,
-    "registrations":22,
-    "conversion":88.0
-  },
-  {
-    "date_group":1687219200000,
-    "platform":"ios",
-    "visits":23,
-    "registrations":19,
-    "conversion":82.6087
-  },
-  {
-    "date_group":1687219200000,
     "platform":"web",
-    "visits":309,
-    "registrations":9,
+    "visits":309.0,
+    "registrations":9.0,
     "conversion":2.9126
   },
   {
     "date_group":1687305600000,
-    "platform":"android",
-    "visits":42,
-    "registrations":35,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1687305600000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":29,
-    "conversion":80.5556
-  },
-  {
-    "date_group":1687305600000,
     "platform":"web",
-    "visits":586,
-    "registrations":47,
+    "visits":586.0,
+    "registrations":47.0,
     "conversion":8.0205
   },
   {
     "date_group":1687392000000,
-    "platform":"android",
-    "visits":82,
-    "registrations":67,
-    "conversion":81.7073
-  },
-  {
-    "date_group":1687392000000,
-    "platform":"ios",
-    "visits":43,
-    "registrations":35,
-    "conversion":81.3953
-  },
-  {
-    "date_group":1687392000000,
     "platform":"web",
-    "visits":632,
-    "registrations":28,
+    "visits":632.0,
+    "registrations":28.0,
     "conversion":4.4304
   },
   {
     "date_group":1687478400000,
-    "platform":"android",
-    "visits":129,
-    "registrations":83,
-    "conversion":64.3411
-  },
-  {
-    "date_group":1687478400000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":21,
-    "conversion":58.3333
-  },
-  {
-    "date_group":1687478400000,
     "platform":"web",
-    "visits":983,
-    "registrations":63,
+    "visits":983.0,
+    "registrations":63.0,
     "conversion":6.409
   },
   {
     "date_group":1687564800000,
-    "platform":"android",
-    "visits":94,
-    "registrations":62,
-    "conversion":65.9574
-  },
-  {
-    "date_group":1687564800000,
-    "platform":"ios",
-    "visits":12,
-    "registrations":8,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1687564800000,
     "platform":"web",
-    "visits":817,
-    "registrations":34,
+    "visits":817.0,
+    "registrations":34.0,
     "conversion":4.1616
   },
   {
     "date_group":1687651200000,
-    "platform":"android",
-    "visits":51,
-    "registrations":30,
-    "conversion":58.8235
-  },
-  {
-    "date_group":1687651200000,
-    "platform":"ios",
-    "visits":44,
-    "registrations":28,
-    "conversion":63.6364
-  },
-  {
-    "date_group":1687651200000,
     "platform":"web",
-    "visits":1007,
-    "registrations":78,
+    "visits":1007.0,
+    "registrations":78.0,
     "conversion":7.7458
   },
   {
     "date_group":1687737600000,
-    "platform":"android",
-    "visits":63,
-    "registrations":41,
-    "conversion":65.0794
-  },
-  {
-    "date_group":1687737600000,
-    "platform":"ios",
-    "visits":47,
-    "registrations":31,
-    "conversion":65.9574
-  },
-  {
-    "date_group":1687737600000,
     "platform":"web",
-    "visits":581,
-    "registrations":29,
+    "visits":581.0,
+    "registrations":29.0,
     "conversion":4.9914
   },
   {
     "date_group":1687824000000,
-    "platform":"android",
-    "visits":91,
-    "registrations":51,
-    "conversion":56.044
-  },
-  {
-    "date_group":1687824000000,
-    "platform":"ios",
-    "visits":19,
-    "registrations":9,
-    "conversion":47.3684
-  },
-  {
-    "date_group":1687824000000,
     "platform":"web",
-    "visits":1031,
-    "registrations":25,
+    "visits":1031.0,
+    "registrations":25.0,
     "conversion":2.4248
   },
   {
     "date_group":1687910400000,
-    "platform":"android",
-    "visits":42,
-    "registrations":23,
-    "conversion":54.7619
-  },
-  {
-    "date_group":1687910400000,
-    "platform":"ios",
-    "visits":44,
-    "registrations":27,
-    "conversion":61.3636
-  },
-  {
-    "date_group":1687910400000,
     "platform":"web",
-    "visits":1021,
-    "registrations":25,
+    "visits":1021.0,
+    "registrations":25.0,
     "conversion":2.4486
   },
   {
     "date_group":1687996800000,
-    "platform":"android",
-    "visits":87,
-    "registrations":61,
-    "conversion":70.1149
-  },
-  {
-    "date_group":1687996800000,
-    "platform":"ios",
-    "visits":66,
-    "registrations":41,
-    "conversion":62.1212
-  },
-  {
-    "date_group":1687996800000,
     "platform":"web",
-    "visits":491,
-    "registrations":18,
+    "visits":491.0,
+    "registrations":18.0,
     "conversion":3.666
   },
   {
     "date_group":1688083200000,
-    "platform":"android",
-    "visits":61,
-    "registrations":44,
-    "conversion":72.1311
-  },
-  {
-    "date_group":1688083200000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":23,
-    "conversion":67.6471
-  },
-  {
-    "date_group":1688083200000,
     "platform":"web",
-    "visits":992,
-    "registrations":33,
+    "visits":992.0,
+    "registrations":33.0,
     "conversion":3.3266
   },
   {
     "date_group":1688169600000,
-    "platform":"android",
-    "visits":111,
-    "registrations":65,
-    "conversion":58.5586
-  },
-  {
-    "date_group":1688169600000,
-    "platform":"ios",
-    "visits":17,
-    "registrations":10,
-    "conversion":58.8235
-  },
-  {
-    "date_group":1688169600000,
     "platform":"web",
-    "visits":822,
-    "registrations":57,
+    "visits":822.0,
+    "registrations":57.0,
     "conversion":6.9343
   },
   {
     "date_group":1688256000000,
-    "platform":"android",
-    "visits":102,
-    "registrations":70,
-    "conversion":68.6275
-  },
-  {
-    "date_group":1688256000000,
-    "platform":"bot",
-    "visits":138,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688256000000,
-    "platform":"ios",
-    "visits":33,
-    "registrations":22,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1688256000000,
     "platform":"web",
-    "visits":787,
-    "registrations":32,
+    "visits":787.0,
+    "registrations":32.0,
     "conversion":4.0661
   },
   {
     "date_group":1688342400000,
-    "platform":"android",
-    "visits":97,
-    "registrations":71,
-    "conversion":73.1959
-  },
-  {
-    "date_group":1688342400000,
-    "platform":"bot",
-    "visits":113,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688342400000,
-    "platform":"ios",
-    "visits":27,
-    "registrations":19,
-    "conversion":70.3704
-  },
-  {
-    "date_group":1688342400000,
     "platform":"web",
-    "visits":812,
-    "registrations":36,
+    "visits":812.0,
+    "registrations":36.0,
     "conversion":4.4335
   },
   {
     "date_group":1688428800000,
-    "platform":"android",
-    "visits":91,
-    "registrations":69,
-    "conversion":75.8242
-  },
-  {
-    "date_group":1688428800000,
-    "platform":"bot",
-    "visits":167,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688428800000,
-    "platform":"ios",
-    "visits":32,
-    "registrations":18,
-    "conversion":56.25
-  },
-  {
-    "date_group":1688428800000,
     "platform":"web",
-    "visits":909,
-    "registrations":21,
+    "visits":909.0,
+    "registrations":21.0,
     "conversion":2.3102
   },
   {
     "date_group":1688515200000,
-    "platform":"android",
-    "visits":78,
-    "registrations":52,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1688515200000,
-    "platform":"bot",
-    "visits":211,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688515200000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":22,
-    "conversion":61.1111
-  },
-  {
-    "date_group":1688515200000,
     "platform":"web",
-    "visits":433,
-    "registrations":30,
+    "visits":433.0,
+    "registrations":30.0,
     "conversion":6.9284
   },
   {
     "date_group":1688601600000,
-    "platform":"android",
-    "visits":112,
-    "registrations":69,
-    "conversion":61.6071
-  },
-  {
-    "date_group":1688601600000,
-    "platform":"bot",
-    "visits":210,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688601600000,
-    "platform":"ios",
-    "visits":29,
-    "registrations":15,
-    "conversion":51.7241
-  },
-  {
-    "date_group":1688601600000,
     "platform":"web",
-    "visits":753,
-    "registrations":30,
+    "visits":753.0,
+    "registrations":30.0,
     "conversion":3.9841
   },
   {
     "date_group":1688688000000,
-    "platform":"android",
-    "visits":96,
-    "registrations":61,
-    "conversion":63.5417
-  },
-  {
-    "date_group":1688688000000,
-    "platform":"bot",
-    "visits":204,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688688000000,
-    "platform":"ios",
-    "visits":26,
-    "registrations":15,
-    "conversion":57.6923
-  },
-  {
-    "date_group":1688688000000,
     "platform":"web",
-    "visits":923,
-    "registrations":74,
+    "visits":923.0,
+    "registrations":74.0,
     "conversion":8.0173
   },
   {
     "date_group":1688774400000,
-    "platform":"android",
-    "visits":93,
-    "registrations":63,
-    "conversion":67.7419
-  },
-  {
-    "date_group":1688774400000,
-    "platform":"bot",
-    "visits":225,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1688774400000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":18,
-    "conversion":58.0645
-  },
-  {
-    "date_group":1688774400000,
     "platform":"web",
-    "visits":649,
-    "registrations":38,
+    "visits":649.0,
+    "registrations":38.0,
     "conversion":5.8552
   },
   {
     "date_group":1688860800000,
-    "platform":"android",
-    "visits":121,
-    "registrations":76,
-    "conversion":62.8099
-  },
-  {
-    "date_group":1688860800000,
-    "platform":"ios",
-    "visits":32,
-    "registrations":22,
-    "conversion":68.75
-  },
-  {
-    "date_group":1688860800000,
     "platform":"web",
-    "visits":1009,
-    "registrations":44,
+    "visits":1009.0,
+    "registrations":44.0,
     "conversion":4.3608
   },
   {
     "date_group":1688947200000,
-    "platform":"android",
-    "visits":108,
-    "registrations":66,
-    "conversion":61.1111
-  },
-  {
-    "date_group":1688947200000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":20,
-    "conversion":58.8235
-  },
-  {
-    "date_group":1688947200000,
     "platform":"web",
-    "visits":492,
-    "registrations":35,
+    "visits":492.0,
+    "registrations":35.0,
     "conversion":7.1138
   },
   {
     "date_group":1689033600000,
-    "platform":"android",
-    "visits":119,
-    "registrations":76,
-    "conversion":63.8655
-  },
-  {
-    "date_group":1689033600000,
-    "platform":"ios",
-    "visits":25,
-    "registrations":15,
-    "conversion":60.0
-  },
-  {
-    "date_group":1689033600000,
     "platform":"web",
-    "visits":514,
-    "registrations":27,
+    "visits":514.0,
+    "registrations":27.0,
     "conversion":5.2529
   },
   {
     "date_group":1689120000000,
-    "platform":"android",
-    "visits":93,
-    "registrations":61,
-    "conversion":65.5914
-  },
-  {
-    "date_group":1689120000000,
-    "platform":"ios",
-    "visits":73,
-    "registrations":48,
-    "conversion":65.7534
-  },
-  {
-    "date_group":1689120000000,
     "platform":"web",
-    "visits":739,
-    "registrations":34,
+    "visits":739.0,
+    "registrations":34.0,
     "conversion":4.6008
   },
   {
     "date_group":1689206400000,
-    "platform":"android",
-    "visits":154,
-    "registrations":98,
-    "conversion":63.6364
-  },
-  {
-    "date_group":1689206400000,
-    "platform":"ios",
-    "visits":49,
-    "registrations":28,
-    "conversion":57.1429
-  },
-  {
-    "date_group":1689206400000,
     "platform":"web",
-    "visits":541,
-    "registrations":16,
+    "visits":541.0,
+    "registrations":16.0,
     "conversion":2.9575
   },
   {
     "date_group":1689292800000,
-    "platform":"android",
-    "visits":59,
-    "registrations":35,
-    "conversion":59.322
-  },
-  {
-    "date_group":1689292800000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":21,
-    "conversion":67.7419
-  },
-  {
-    "date_group":1689292800000,
     "platform":"web",
-    "visits":1014,
-    "registrations":41,
+    "visits":1014.0,
+    "registrations":41.0,
     "conversion":4.0434
   },
   {
     "date_group":1689379200000,
-    "platform":"android",
-    "visits":83,
-    "registrations":54,
-    "conversion":65.0602
-  },
-  {
-    "date_group":1689379200000,
-    "platform":"ios",
-    "visits":24,
-    "registrations":14,
-    "conversion":58.3333
-  },
-  {
-    "date_group":1689379200000,
     "platform":"web",
-    "visits":667,
-    "registrations":29,
+    "visits":667.0,
+    "registrations":29.0,
     "conversion":4.3478
   },
   {
     "date_group":1689465600000,
-    "platform":"android",
-    "visits":107,
-    "registrations":72,
-    "conversion":67.2897
-  },
-  {
-    "date_group":1689465600000,
-    "platform":"ios",
-    "visits":20,
-    "registrations":12,
-    "conversion":60.0
-  },
-  {
-    "date_group":1689465600000,
     "platform":"web",
-    "visits":491,
-    "registrations":39,
+    "visits":491.0,
+    "registrations":39.0,
     "conversion":7.943
   },
   {
     "date_group":1689552000000,
-    "platform":"android",
-    "visits":55,
-    "registrations":40,
-    "conversion":72.7273
-  },
-  {
-    "date_group":1689552000000,
-    "platform":"ios",
-    "visits":20,
-    "registrations":14,
-    "conversion":70.0
-  },
-  {
-    "date_group":1689552000000,
     "platform":"web",
-    "visits":812,
-    "registrations":36,
+    "visits":812.0,
+    "registrations":36.0,
     "conversion":4.4335
   },
   {
     "date_group":1689638400000,
-    "platform":"android",
-    "visits":78,
-    "registrations":54,
-    "conversion":69.2308
-  },
-  {
-    "date_group":1689638400000,
-    "platform":"ios",
-    "visits":20,
-    "registrations":13,
-    "conversion":65.0
-  },
-  {
-    "date_group":1689638400000,
     "platform":"web",
-    "visits":510,
-    "registrations":15,
+    "visits":510.0,
+    "registrations":15.0,
     "conversion":2.9412
   },
   {
     "date_group":1689724800000,
-    "platform":"android",
-    "visits":35,
-    "registrations":24,
-    "conversion":68.5714
-  },
-  {
-    "date_group":1689724800000,
-    "platform":"ios",
-    "visits":33,
-    "registrations":21,
-    "conversion":63.6364
-  },
-  {
-    "date_group":1689724800000,
     "platform":"web",
-    "visits":870,
-    "registrations":41,
+    "visits":870.0,
+    "registrations":41.0,
     "conversion":4.7126
   },
   {
     "date_group":1689811200000,
-    "platform":"android",
-    "visits":125,
-    "registrations":81,
-    "conversion":64.8
-  },
-  {
-    "date_group":1689811200000,
-    "platform":"ios",
-    "visits":13,
-    "registrations":6,
-    "conversion":46.1538
-  },
-  {
-    "date_group":1689811200000,
     "platform":"web",
-    "visits":533,
-    "registrations":12,
+    "visits":533.0,
+    "registrations":12.0,
     "conversion":2.2514
   },
   {
     "date_group":1689897600000,
-    "platform":"android",
-    "visits":125,
-    "registrations":90,
-    "conversion":72.0
-  },
-  {
-    "date_group":1689897600000,
-    "platform":"ios",
-    "visits":27,
-    "registrations":17,
-    "conversion":62.963
-  },
-  {
-    "date_group":1689897600000,
     "platform":"web",
-    "visits":494,
-    "registrations":33,
+    "visits":494.0,
+    "registrations":33.0,
     "conversion":6.6802
   },
   {
     "date_group":1689984000000,
-    "platform":"android",
-    "visits":119,
-    "registrations":77,
-    "conversion":64.7059
-  },
-  {
-    "date_group":1689984000000,
-    "platform":"ios",
-    "visits":23,
-    "registrations":12,
-    "conversion":52.1739
-  },
-  {
-    "date_group":1689984000000,
     "platform":"web",
-    "visits":567,
-    "registrations":40,
+    "visits":567.0,
+    "registrations":40.0,
     "conversion":7.0547
   },
   {
     "date_group":1690070400000,
-    "platform":"android",
-    "visits":75,
-    "registrations":54,
-    "conversion":72.0
-  },
-  {
-    "date_group":1690070400000,
-    "platform":"ios",
-    "visits":19,
-    "registrations":14,
-    "conversion":73.6842
-  },
-  {
-    "date_group":1690070400000,
     "platform":"web",
-    "visits":698,
-    "registrations":22,
+    "visits":698.0,
+    "registrations":22.0,
     "conversion":3.1519
   },
   {
     "date_group":1690156800000,
-    "platform":"android",
-    "visits":150,
-    "registrations":87,
-    "conversion":58.0
-  },
-  {
-    "date_group":1690156800000,
-    "platform":"ios",
-    "visits":25,
-    "registrations":12,
-    "conversion":48.0
-  },
-  {
-    "date_group":1690156800000,
     "platform":"web",
-    "visits":684,
-    "registrations":25,
+    "visits":684.0,
+    "registrations":25.0,
     "conversion":3.655
   },
   {
     "date_group":1690243200000,
-    "platform":"android",
-    "visits":110,
-    "registrations":65,
-    "conversion":59.0909
-  },
-  {
-    "date_group":1690243200000,
-    "platform":"ios",
-    "visits":44,
-    "registrations":30,
-    "conversion":68.1818
-  },
-  {
-    "date_group":1690243200000,
     "platform":"web",
-    "visits":1038,
-    "registrations":58,
+    "visits":1038.0,
+    "registrations":58.0,
     "conversion":5.5877
   },
   {
     "date_group":1690329600000,
-    "platform":"android",
-    "visits":71,
-    "registrations":42,
-    "conversion":59.1549
-  },
-  {
-    "date_group":1690329600000,
-    "platform":"ios",
-    "visits":22,
-    "registrations":14,
-    "conversion":63.6364
-  },
-  {
-    "date_group":1690329600000,
     "platform":"web",
-    "visits":671,
-    "registrations":46,
+    "visits":671.0,
+    "registrations":46.0,
     "conversion":6.8554
   },
   {
     "date_group":1690416000000,
-    "platform":"android",
-    "visits":36,
-    "registrations":31,
-    "conversion":86.1111
-  },
-  {
-    "date_group":1690416000000,
-    "platform":"ios",
-    "visits":15,
-    "registrations":12,
-    "conversion":80.0
-  },
-  {
-    "date_group":1690416000000,
     "platform":"web",
-    "visits":311,
-    "registrations":29,
+    "visits":311.0,
+    "registrations":29.0,
     "conversion":9.3248
   },
   {
     "date_group":1690502400000,
-    "platform":"android",
-    "visits":64,
-    "registrations":52,
-    "conversion":81.25
-  },
-  {
-    "date_group":1690502400000,
-    "platform":"ios",
-    "visits":42,
-    "registrations":35,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1690502400000,
     "platform":"web",
-    "visits":503,
-    "registrations":24,
+    "visits":503.0,
+    "registrations":24.0,
     "conversion":4.7714
   },
   {
     "date_group":1690588800000,
-    "platform":"android",
-    "visits":42,
-    "registrations":36,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1690588800000,
-    "platform":"ios",
-    "visits":7,
-    "registrations":6,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1690588800000,
     "platform":"web",
-    "visits":543,
-    "registrations":49,
+    "visits":543.0,
+    "registrations":49.0,
     "conversion":9.0239
   },
   {
     "date_group":1690675200000,
-    "platform":"android",
-    "visits":78,
-    "registrations":66,
-    "conversion":84.6154
-  },
-  {
-    "date_group":1690675200000,
-    "platform":"ios",
-    "visits":42,
-    "registrations":36,
-    "conversion":85.7143
-  },
-  {
-    "date_group":1690675200000,
     "platform":"web",
-    "visits":511,
-    "registrations":21,
+    "visits":511.0,
+    "registrations":21.0,
     "conversion":4.1096
   },
   {
     "date_group":1690761600000,
-    "platform":"android",
-    "visits":75,
-    "registrations":62,
-    "conversion":82.6667
-  },
-  {
-    "date_group":1690761600000,
-    "platform":"ios",
-    "visits":20,
-    "registrations":16,
-    "conversion":80.0
-  },
-  {
-    "date_group":1690761600000,
     "platform":"web",
-    "visits":505,
-    "registrations":32,
+    "visits":505.0,
+    "registrations":32.0,
     "conversion":6.3366
   },
   {
     "date_group":1690848000000,
-    "platform":"android",
-    "visits":77,
-    "registrations":64,
-    "conversion":83.1169
-  },
-  {
-    "date_group":1690848000000,
-    "platform":"ios",
-    "visits":17,
-    "registrations":14,
-    "conversion":82.3529
-  },
-  {
-    "date_group":1690848000000,
     "platform":"web",
-    "visits":351,
-    "registrations":29,
+    "visits":351.0,
+    "registrations":29.0,
     "conversion":8.2621
   },
   {
     "date_group":1690934400000,
-    "platform":"android",
-    "visits":23,
-    "registrations":19,
-    "conversion":82.6087
-  },
-  {
-    "date_group":1690934400000,
-    "platform":"ios",
-    "visits":27,
-    "registrations":24,
-    "conversion":88.8889
-  },
-  {
-    "date_group":1690934400000,
     "platform":"web",
-    "visits":700,
-    "registrations":48,
+    "visits":700.0,
+    "registrations":48.0,
     "conversion":6.8571
   },
   {
     "date_group":1691020800000,
-    "platform":"android",
-    "visits":46,
-    "registrations":39,
-    "conversion":84.7826
-  },
-  {
-    "date_group":1691020800000,
-    "platform":"ios",
-    "visits":20,
-    "registrations":16,
-    "conversion":80.0
-  },
-  {
-    "date_group":1691020800000,
     "platform":"web",
-    "visits":463,
-    "registrations":16,
+    "visits":463.0,
+    "registrations":16.0,
     "conversion":3.4557
   },
   {
     "date_group":1691107200000,
-    "platform":"android",
-    "visits":27,
-    "registrations":22,
-    "conversion":81.4815
-  },
-  {
-    "date_group":1691107200000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":15,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1691107200000,
     "platform":"web",
-    "visits":636,
-    "registrations":50,
+    "visits":636.0,
+    "registrations":50.0,
     "conversion":7.8616
   },
   {
     "date_group":1691193600000,
-    "platform":"android",
-    "visits":62,
-    "registrations":50,
-    "conversion":80.6452
-  },
-  {
-    "date_group":1691193600000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":28,
-    "conversion":82.3529
-  },
-  {
-    "date_group":1691193600000,
     "platform":"web",
-    "visits":474,
-    "registrations":23,
+    "visits":474.0,
+    "registrations":23.0,
     "conversion":4.8523
   },
   {
     "date_group":1691280000000,
-    "platform":"android",
-    "visits":76,
-    "registrations":63,
-    "conversion":82.8947
-  },
-  {
-    "date_group":1691280000000,
-    "platform":"ios",
-    "visits":17,
-    "registrations":15,
-    "conversion":88.2353
-  },
-  {
-    "date_group":1691280000000,
     "platform":"web",
-    "visits":661,
-    "registrations":37,
+    "visits":661.0,
+    "registrations":37.0,
     "conversion":5.5976
   },
   {
     "date_group":1691366400000,
-    "platform":"android",
-    "visits":100,
-    "registrations":80,
-    "conversion":80.0
-  },
-  {
-    "date_group":1691366400000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":24,
-    "conversion":70.5882
-  },
-  {
-    "date_group":1691366400000,
     "platform":"web",
-    "visits":832,
-    "registrations":32,
+    "visits":832.0,
+    "registrations":32.0,
     "conversion":3.8462
   },
   {
     "date_group":1691452800000,
-    "platform":"android",
-    "visits":83,
-    "registrations":57,
-    "conversion":68.6747
-  },
-  {
-    "date_group":1691452800000,
-    "platform":"ios",
-    "visits":31,
-    "registrations":22,
-    "conversion":70.9677
-  },
-  {
-    "date_group":1691452800000,
     "platform":"web",
-    "visits":888,
-    "registrations":50,
+    "visits":888.0,
+    "registrations":50.0,
     "conversion":5.6306
   },
   {
     "date_group":1691539200000,
-    "platform":"android",
-    "visits":107,
-    "registrations":82,
-    "conversion":76.6355
-  },
-  {
-    "date_group":1691539200000,
-    "platform":"bot",
-    "visits":125,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1691539200000,
-    "platform":"ios",
-    "visits":33,
-    "registrations":24,
-    "conversion":72.7273
-  },
-  {
-    "date_group":1691539200000,
     "platform":"web",
-    "visits":422,
-    "registrations":18,
+    "visits":422.0,
+    "registrations":18.0,
     "conversion":4.2654
   },
   {
     "date_group":1691625600000,
-    "platform":"android",
-    "visits":142,
-    "registrations":112,
-    "conversion":78.8732
-  },
-  {
-    "date_group":1691625600000,
-    "platform":"bot",
-    "visits":211,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1691625600000,
-    "platform":"ios",
-    "visits":15,
-    "registrations":11,
-    "conversion":73.3333
-  },
-  {
-    "date_group":1691625600000,
     "platform":"web",
-    "visits":478,
-    "registrations":24,
+    "visits":478.0,
+    "registrations":24.0,
     "conversion":5.0209
   },
   {
     "date_group":1691712000000,
-    "platform":"android",
-    "visits":93,
-    "registrations":70,
-    "conversion":75.2688
-  },
-  {
-    "date_group":1691712000000,
-    "platform":"bot",
-    "visits":190,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1691712000000,
-    "platform":"ios",
-    "visits":14,
-    "registrations":10,
-    "conversion":71.4286
-  },
-  {
-    "date_group":1691712000000,
     "platform":"web",
-    "visits":749,
-    "registrations":25,
+    "visits":749.0,
+    "registrations":25.0,
     "conversion":3.3378
   },
   {
     "date_group":1691798400000,
-    "platform":"android",
-    "visits":124,
-    "registrations":109,
-    "conversion":87.9032
-  },
-  {
-    "date_group":1691798400000,
-    "platform":"bot",
-    "visits":170,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1691798400000,
-    "platform":"ios",
-    "visits":27,
-    "registrations":21,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1691798400000,
     "platform":"web",
-    "visits":479,
-    "registrations":19,
+    "visits":479.0,
+    "registrations":19.0,
     "conversion":3.9666
   },
   {
     "date_group":1691884800000,
-    "platform":"android",
-    "visits":49,
-    "registrations":34,
-    "conversion":69.3878
-  },
-  {
-    "date_group":1691884800000,
-    "platform":"bot",
-    "visits":202,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1691884800000,
-    "platform":"ios",
-    "visits":34,
-    "registrations":24,
-    "conversion":70.5882
-  },
-  {
-    "date_group":1691884800000,
     "platform":"web",
-    "visits":751,
-    "registrations":34,
+    "visits":751.0,
+    "registrations":34.0,
     "conversion":4.5273
   },
   {
     "date_group":1691971200000,
-    "platform":"android",
-    "visits":96,
-    "registrations":65,
-    "conversion":67.7083
-  },
-  {
-    "date_group":1691971200000,
-    "platform":"bot",
-    "visits":125,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1691971200000,
-    "platform":"ios",
-    "visits":18,
-    "registrations":15,
-    "conversion":83.3333
-  },
-  {
-    "date_group":1691971200000,
     "platform":"web",
-    "visits":687,
-    "registrations":60,
+    "visits":687.0,
+    "registrations":60.0,
     "conversion":8.7336
   },
   {
     "date_group":1692057600000,
-    "platform":"android",
-    "visits":139,
-    "registrations":93,
-    "conversion":66.9065
-  },
-  {
-    "date_group":1692057600000,
-    "platform":"bot",
-    "visits":200,
-    "registrations":0,
-    "conversion":0.0
-  },
-  {
-    "date_group":1692057600000,
-    "platform":"ios",
-    "visits":30,
-    "registrations":23,
-    "conversion":76.6667
-  },
-  {
-    "date_group":1692057600000,
     "platform":"web",
-    "visits":967,
-    "registrations":43,
+    "visits":967.0,
+    "registrations":43.0,
     "conversion":4.4467
   },
   {
     "date_group":1692144000000,
-    "platform":"android",
-    "visits":39,
-    "registrations":27,
-    "conversion":69.2308
-  },
-  {
-    "date_group":1692144000000,
-    "platform":"ios",
-    "visits":38,
-    "registrations":30,
-    "conversion":78.9474
-  },
-  {
-    "date_group":1692144000000,
     "platform":"web",
-    "visits":394,
-    "registrations":18,
+    "visits":394.0,
+    "registrations":18.0,
     "conversion":4.5685
   },
   {
     "date_group":1692230400000,
-    "platform":"android",
-    "visits":45,
-    "registrations":39,
-    "conversion":86.6667
-  },
-  {
-    "date_group":1692230400000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":28,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1692230400000,
     "platform":"web",
-    "visits":841,
-    "registrations":62,
+    "visits":841.0,
+    "registrations":62.0,
     "conversion":7.3722
   },
   {
     "date_group":1692316800000,
-    "platform":"android",
-    "visits":44,
-    "registrations":27,
-    "conversion":61.3636
-  },
-  {
-    "date_group":1692316800000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":28,
-    "conversion":77.7778
-  },
-  {
-    "date_group":1692316800000,
     "platform":"web",
-    "visits":934,
-    "registrations":50,
+    "visits":934.0,
+    "registrations":50.0,
     "conversion":5.3533
   },
   {
     "date_group":1692403200000,
-    "platform":"android",
-    "visits":68,
-    "registrations":57,
-    "conversion":83.8235
-  },
-  {
-    "date_group":1692403200000,
-    "platform":"ios",
-    "visits":32,
-    "registrations":23,
-    "conversion":71.875
-  },
-  {
-    "date_group":1692403200000,
     "platform":"web",
-    "visits":1059,
-    "registrations":30,
+    "visits":1059.0,
+    "registrations":30.0,
     "conversion":2.8329
   },
   {
     "date_group":1692489600000,
-    "platform":"android",
-    "visits":60,
-    "registrations":36,
-    "conversion":60.0
-  },
-  {
-    "date_group":1692489600000,
-    "platform":"ios",
-    "visits":21,
-    "registrations":16,
-    "conversion":76.1905
-  },
-  {
-    "date_group":1692489600000,
     "platform":"web",
-    "visits":531,
-    "registrations":35,
+    "visits":531.0,
+    "registrations":35.0,
     "conversion":6.5913
   },
   {
     "date_group":1692576000000,
-    "platform":"android",
-    "visits":129,
-    "registrations":85,
-    "conversion":65.8915
-  },
-  {
-    "date_group":1692576000000,
-    "platform":"ios",
-    "visits":30,
-    "registrations":22,
-    "conversion":73.3333
-  },
-  {
-    "date_group":1692576000000,
     "platform":"web",
-    "visits":935,
-    "registrations":33,
+    "visits":935.0,
+    "registrations":33.0,
     "conversion":3.5294
   },
   {
     "date_group":1692662400000,
-    "platform":"android",
-    "visits":57,
-    "registrations":38,
-    "conversion":66.6667
-  },
-  {
-    "date_group":1692662400000,
-    "platform":"ios",
-    "visits":37,
-    "registrations":29,
-    "conversion":78.3784
-  },
-  {
-    "date_group":1692662400000,
     "platform":"web",
-    "visits":955,
-    "registrations":74,
+    "visits":955.0,
+    "registrations":74.0,
     "conversion":7.7487
   },
   {
     "date_group":1692748800000,
-    "platform":"android",
-    "visits":70,
-    "registrations":47,
-    "conversion":67.1429
-  },
-  {
-    "date_group":1692748800000,
-    "platform":"ios",
-    "visits":38,
-    "registrations":29,
-    "conversion":76.3158
-  },
-  {
-    "date_group":1692748800000,
     "platform":"web",
-    "visits":865,
-    "registrations":68,
+    "visits":865.0,
+    "registrations":68.0,
     "conversion":7.8613
   },
   {
     "date_group":1692835200000,
-    "platform":"android",
-    "visits":103,
-    "registrations":67,
-    "conversion":65.0485
-  },
-  {
-    "date_group":1692835200000,
-    "platform":"ios",
-    "visits":54,
-    "registrations":43,
-    "conversion":79.6296
-  },
-  {
-    "date_group":1692835200000,
     "platform":"web",
-    "visits":473,
-    "registrations":36,
+    "visits":473.0,
+    "registrations":36.0,
     "conversion":7.611
   },
   {
     "date_group":1692921600000,
-    "platform":"android",
-    "visits":79,
-    "registrations":62,
-    "conversion":78.481
-  },
-  {
-    "date_group":1692921600000,
-    "platform":"ios",
-    "visits":36,
-    "registrations":25,
-    "conversion":69.4444
-  },
-  {
-    "date_group":1692921600000,
     "platform":"web",
-    "visits":882,
-    "registrations":62,
+    "visits":882.0,
+    "registrations":62.0,
     "conversion":7.0295
   },
   {
     "date_group":1693008000000,
-    "platform":"android",
-    "visits":147,
-    "registrations":114,
-    "conversion":77.551
-  },
-  {
-    "date_group":1693008000000,
-    "platform":"ios",
-    "visits":60,
-    "registrations":41,
-    "conversion":68.3333
-  },
-  {
-    "date_group":1693008000000,
     "platform":"web",
-    "visits":759,
-    "registrations":30,
+    "visits":759.0,
+    "registrations":30.0,
     "conversion":3.9526
   },
   {
     "date_group":1693094400000,
-    "platform":"android",
-    "visits":56,
-    "registrations":39,
-    "conversion":69.6429
-  },
-  {
-    "date_group":1693094400000,
-    "platform":"ios",
-    "visits":24,
-    "registrations":18,
-    "conversion":75.0
-  },
-  {
-    "date_group":1693094400000,
     "platform":"web",
-    "visits":715,
-    "registrations":31,
+    "visits":715.0,
+    "registrations":31.0,
     "conversion":4.3357
   },
   {
     "date_group":1693180800000,
-    "platform":"android",
-    "visits":44,
-    "registrations":34,
-    "conversion":77.2727
-  },
-  {
-    "date_group":1693180800000,
-    "platform":"ios",
-    "visits":35,
-    "registrations":23,
-    "conversion":65.7143
-  },
-  {
-    "date_group":1693180800000,
     "platform":"web",
-    "visits":556,
-    "registrations":26,
+    "visits":556.0,
+    "registrations":26.0,
     "conversion":4.6763
   },
   {
     "date_group":1693267200000,
-    "platform":"android",
-    "visits":71,
-    "registrations":56,
-    "conversion":78.8732
-  },
-  {
-    "date_group":1693267200000,
-    "platform":"ios",
-    "visits":28,
-    "registrations":23,
-    "conversion":82.1429
-  },
-  {
-    "date_group":1693267200000,
     "platform":"web",
-    "visits":1169,
-    "registrations":64,
+    "visits":1169.0,
+    "registrations":64.0,
     "conversion":5.4748
   },
   {
     "date_group":1693353600000,
-    "platform":"android",
-    "visits":35,
-    "registrations":27,
-    "conversion":77.1429
-  },
-  {
-    "date_group":1693353600000,
-    "platform":"ios",
-    "visits":66,
-    "registrations":40,
-    "conversion":60.6061
-  },
-  {
-    "date_group":1693353600000,
     "platform":"web",
-    "visits":1227,
-    "registrations":34,
+    "visits":1227.0,
+    "registrations":34.0,
     "conversion":2.771
   },
   {
     "date_group":1693440000000,
-    "platform":"android",
-    "visits":57,
-    "registrations":42,
-    "conversion":73.6842
-  },
-  {
-    "date_group":1693440000000,
-    "platform":"ios",
-    "visits":50,
-    "registrations":36,
-    "conversion":72.0
-  },
-  {
-    "date_group":1693440000000,
     "platform":"web",
-    "visits":721,
-    "registrations":46,
+    "visits":721.0,
+    "registrations":46.0,
     "conversion":6.38
   }
 ]
